@@ -1,0 +1,2413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wzc_103">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>純宗[附錄] 三年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1910" type="서기"/>
+        <dateOccured type="간지">庚戌</dateOccured>
+        <dateOccured type="재위연도">순종 3</dateOccured>
+        <dateOccured type="개국연호">대한 융희(隆熙) 4</dateOccured>
+        <dateOccured type="중국연호">청 선통(宣統) 2</dateOccured>
+        <dateOccured type="단기">4243</dateOccured>
+        <dateOccured type="일본연호">명치(明治) 43</dateOccured>
+        <dateOccured type="display">대한 융희(隆熙) 4</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">
+        <index num="2056370_0" ref="M_0062680" sort="K" type="이름">純宗</index>實錄[附錄] 三年 / <index num="2056371_0" sort="J" type="지명">日本</index>明治四十三年</paragraph>
+    </content>
+  </text>
+  <level3 id="wzc_103080">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]三年 八月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]三年 八月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_10308029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 8月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-08-29L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 8월 29일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 29일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 8월 29일</dateOccured>
+            <dateOccured type="단기">4243년 8월 29일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 8월 29일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 8월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10308029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대일본 천황이 조서를 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-08-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="557면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>사법-법제(法制)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">
+              <annotation type="원주">
+                <noteContent>【純宗皇帝實錄附錄卷之一】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center">二十九日。 大<index num="2056372_0" sort="J" type="지명">日本</index>天皇陛下詔書曰: "朕이 <index num="2056373_0" sort="K" type="지명">東洋</index>의 平和를 永遠히 維持야 帝國의 安全을 將來에 保障 必要 念며 又常히 <index num="2056374_0" sort="K" type="지명">韓國</index>이 禍亂의 淵源됨을 顧야 曩者朕의 政府로야곰 <index num="2056375_0" sort="K" type="지명">韓國</index>政府와 協定케고 <index num="2056376_0" sort="K" type="지명">韓國</index>을 帝國의 保護之下에 置야쎠 禍源을 杜絶고 平和 確保을 期지라。 爾來經過四年有餘에 其間朕의 政府 銳意<index num="2056377_0" sort="K" type="지명">韓國</index>施政의 改善을 努야 其成績이 亦見만쟈가 有나 <index num="2056378_0" sort="K" type="지명">韓國</index>의 現制 尙未治完의 保持 完케에 足지못니 疑懼의 念이 每時國內에 充溢야 民이 其堵에 安치못니 公共의 安寧을 維持야 民衆의 福利 增進을 爲진 現制 革新을 避치못이 瞭然케 至니라。 朕은 <index num="2056379_0" sort="K" type="지명">韓國</index>皇帝陛下와더부러 此事態 鑑고 <index num="2056380_0" sort="K" type="지명">韓國</index>을 擧야 <index num="2056381_0" sort="J" type="지명">日本</index>帝國에 倂合야쎠 時勢의 要求 應이 不得已쟈가 有을 念야 玆에 永久히 <index num="2056382_0" sort="K" type="지명">韓國</index>을 帝國에 倂合케니라。 <index num="2056383_0" sort="K" type="지명">韓國</index>皇帝陛下及其皇室各員은 倂合後라도 相當 優遇 受지며 民衆은 直接히 朕의 綏撫之下에 立야 其康福을 增進지며 産業及貿易은 治平之下에 顯著 發達을 見케 至지니 <index num="2056384_0" sort="K" type="지명">東洋</index>의 平和가 依此야 뎌옥 其基礎 鞏固케이 朕이 信야 疑치아니 바라。 朕은 特히 <index num="2056385_0" sort="K" type="지명">朝鮮</index>總督을 置고 朕의 命을 承야 陸海軍을 統率며 諸般政務 總轄케니 百官有司아 克히 朕의 意 體고 事에 從야 施設의 緩急이 其宜을 得야쎠 衆庶로야곰 永遠히 治平의 慶에 賴케을 期지어다。" 又詔曰: "朕이 天壤無窮 丕基 弘케고 國家非常 禮數 備코야 前<index num="2056386_0" sort="K" type="지명">朝鮮</index>皇帝 冊야 王을 爲고 <index num="2056387_0" sort="K" type="지명">昌德宮</index>
+              <index num="2056388_0" ref="M_0062680" sort="K" type="이름">李王</index>이라 稱니, 嗣後此隆錫을 世襲야쎠 其宗祀 奉케며 皇太子及將來世嗣 王世子 爲며 太皇帝 太王을 爲야 <index num="2056389_0" sort="K" type="지명">德壽宮</index>
+              <index num="2056390_0" ref="M_0000071" sort="K" type="이름">李太王</index>이라 稱고, 各其儷匹을 王妃太王妃又 王世子妃 爲야 竝히 皇族의 禮로쎠 待야 特히 殿下란 敬稱을 用케니, 世家率循의 道에 至야 朕이 當히 其軌儀 另定야 李家의 子孫으로야곰 奕葉이 賴之고 福履 增綏야 永히 休祉 享케지라。 玆에 有衆에 宣示야쎠 殊典을 昭노라。" 又詔曰: "朕이 惟컨 <index num="2056391_0" ref="M_0000430" sort="K" type="이름">李堈</index>及<index num="2056392_0" ref="M_0000815" sort="K" type="이름">李熹</index> <index num="2056393_0" ref="M_0062680" sort="K" type="이름">李王</index>의 懿親으로 令聞이 夙彰고 槿域의 瞻望이니 宜히 殊遇 加錫야 其儀稱을 豐케지라。 玆에 特히 公을 爲고 其配匹을 公妃 爲고 竝히 皇族의 禮로쎠 待고 殿下란 敬稱을 用케야 子孫으로야곰 此榮錫을 世襲야 永히 寵光을 享케노라。" 又詔曰: "朕이 惟컨 統治의 大權에 由야 玆에 始야 治化 <index num="2056394_0" sort="K" type="지명">朝鮮</index>에 施은 朕의 蒼黎 撫綏야 赤子 體䘏 意 昭示에 先거시 無니 別히 定 바에 依야 <index num="2056395_0" sort="K" type="지명">朝鮮</index>에셔 舊刑諸般罪囚中情狀이 可히 憫諒쟈에 對야 特히 大赦 行며, 積年의 逋租와 及今年의 租稅 減免야쎠 朕의 軫念 바 知悉케노라。"</paragraph>
+            <paragraph align="center">
+              <quotation>勅令第三百十八號, <index num="2056396_0" sort="K" type="지명">韓國</index>에 國號 改야 爾今<index num="2056397_0" sort="K" type="지명">朝鮮</index>이라 稱이라。 勅令第三百十九號, <index num="2056398_0" sort="K" type="지명">朝鮮</index>에 <index num="2056399_0" sort="K" type="지명">朝鮮</index>總督府 置이라 <index num="2056400_0" sort="K" type="지명">朝鮮</index>總督府에 <index num="2056401_0" sort="K" type="지명">朝鮮</index>總督을 置야 委任의 範圍內에셔 陸海軍을 統率야 一切의 政務 統轄케이라。 統監府와 及其所屬官署 當時內 存置야 <index num="2056402_0" sort="K" type="지명">朝鮮</index>總督의 職務 統監으로 行케이라。 從來<index num="2056403_0" sort="K" type="지명">韓國</index>政府에 屬 官廳은 內閣과 及表勳院을 除 外 <index num="2056404_0" sort="K" type="지명">朝鮮</index>總督府所屬官署라 看做야 當時內 存置이라。 前項의 官署에 在勤 官吏에 關야 舊<index num="2056405_0" sort="K" type="지명">韓國</index>政府에 在勤中과 同一 取扱을 爲 但舊<index num="2056406_0" sort="K" type="지명">韓國</index>法規에 依 親任官은 親任官의 待遇, 勅任官은 勅任官의 待遇, 奏任官은 奏任官의 待遇, 判任官은 判任官의 待遇 受 쟈로고 在官면셔 聘用의 許可 바든 者면 明治三十七年勅令第百九十五號의 適用을 受 쟈라 看做이라。 勅令第三百二十三號, 朝鮮總督府設置 時의 <index num="2056408_0" sort="K" type="지명">韓國</index>軍人의 取扱은 陸軍軍人에 準고 其官等과 階級과 任免과 分限과 及給與等에 關야 當時內 從前의 規定에 依이라。 前項의 軍人中에 現職에 在 者 駐箚軍司令部나 或駐箚憲兵隊司令部附로이라。 勅令第三百二十六號, 舊<index num="2056409_0" sort="K" type="지명">韓國</index>政府에 屬 歲入歲出의 豫算은 當時內從前의 樣으로 襲用이라。 勅令第三百二十七號, <index num="2056410_0" sort="K" type="지명">朝鮮</index>에셔 臨時恩賜에 充기 爲야 政府 三千萬圜을 限야 五分利附國債를 發行을 得이라。 勅令第三百二十八號, 從來大藏省預金部에 對야 <index num="2056411_0" sort="K" type="지명">韓國</index>政府가 負擔 債務 別히 規定을 設하기지 一般會計의 負擔에 屬케이라。 勅令第三百二十九號, <index num="2056412_0" sort="K" type="지명">朝鮮</index>에셔 臨時恩賜 <index num="2056413_0" type="연호">明治</index>四十三年勅令第三百二十七號에 依야 發行 國債證券으로쎠 下付이라。 勅令第三百三十四號, 舊<index num="2056414_0" sort="K" type="지명">韓國</index>勳章과 及記章은 當時內 佩用을 得이라。 天皇陛下詔曰: "朕이 惟컨 李家의 懿親과 及其邦家의 大勞가 有 者 宜히 優列에 陞고 敍야 <index num="2056415_0" sort="K" type="지명">朝鮮</index>貴族을 爲고쎠 寵光을 示지니 玆에 其舊德과 前功을 秩며 世爵의 典을 定야 <index num="2056416_0" sort="K" type="지명">朝鮮</index>貴族令이라고 裁可야 公布케노라。" 皇室令第十四號, <index num="2056417_0" sort="K" type="지명">朝鮮</index>貴族令: 第一條, 本令에 依야 爵을 授바가 되거나 或爵을 襲 者 <index num="2056418_0" sort="K" type="지명">朝鮮</index>貴族을 爲이라。 有爵者의 婦 <index num="2056419_0" sort="K" type="지명">朝鮮</index>貴族의 族稱을 享이라。 第二條, 爵은 李王의 現在의 血族으로 皇族의 禮遇 享치안니 者와 及門地나 或功勞가 有 <index num="2056420_0" sort="K" type="지명">朝鮮</index>人에 授이라。 第三條, 爵은 公侯伯子男의 五等으로이라。 第四條, 爵을 授은 勅旨로쎠고 宮內大臣이 奉行이라。 第五條, 有爵者 其爵에 應야 華族令에 依 有爵者와 同一 禮遇 享이라。 第六條, 有爵者의 婦 其夫의 爵에 相當 禮遇와 及名稱을 享이라。 有爵者의 寡婦가 其家에 在 特히 貴族의 族稱을 保有케야 從前의 禮遇와 及名稱을 享케이라。 第七條, 有爵者의 家族으로 左에 揭 者 貴族과 同一 禮遇와 及貴族의 族稱을 享이라。 一曾祖父、祖父、父二爵을 襲을 得 相續人과 及其嫡長男子嫡出의 男子가 無 其庶長男子三前二號에 揭 者의 配偶者。 第八條, 有爵者나 或前二條의 禮遇 享 者가 身體나 又 精神에 重患이 有거나 或貴族의 體面에 關 事故가 有 其重患이나 或事故가 止기지 其禮遇 享을 得지못이라。 前項의 重患이나 或事故의 有無 宮內高等官中에셔 勅令 審査委員으로야곰 審査케 後에 宮內大臣의 上奏에 依야 勅裁이라。 第九條, 有爵者 家範을 定을 得이라。 家範은 宮內大臣의 認許 受이 可 廢止變更도 亦同니라。 有爵者二十年未滿나 或前條의 境遇에 該當 쟈인 家範을 定거나 或廢止變更을 得지못이라。 第十條, 爵은 家의 相續人이오 男子로야곰 襲케이라。 第十一條, 爵을 襲을 得 相續人은 相續開始에셔 六箇月內에 宮內大臣에 相續의 屆出을 爲이 可이라 前項의 屆出이 有 宮內大臣은 勅許 經야 襲爵의 辭令書 交付이라。 第十二條, 襲爵은 相續開始 時에셔 其效力을 生이라。 第十三條, 左의 境遇에 相續人은 襲爵의 特權을 失이라。 一, 第十一條第一項의 期間內에 相續의 屆出을지아니。 二, 第十六條第二項이나 或第十八條의 規定에 依야 貴族의 族稱을 除바가 된。 第十四條, 相續人이 忠順을 缺 行爲가 有 襲爵을 勅許이 無이라 第八條第二項의 規定은 前項의 境遇에 準用이라。 第十五條, 有爵者와 及第六條나 或第七條의 禮遇 享 者의 身分에 關야 監督上에 必要 事項은 宮內大臣이 管掌이라。 第十六條, 有爵者가 國籍을 喪失나 或禁錮나 又 禁獄以上의 刑의 宣告 受고 其裁判이 確定 其爵을 失이라。 第六條나 或第七條의 禮遇 享 者가 前項의 境遇에 該當 貴族의 族稱을 除거나 或禮遇 禁示이라。 第十七條, 有爵者가 左開各號의 一의 該當 爵을 返上케거나 或禮遇 停止거나 又 禁止이라。 一, 貴族의 體面을 汙辱 失行이 有 者。 二, 貴族의 品位 保치못 者。 三, 忠順을 缺 行爲가 有 者。 四, 宮內大臣의 命令이나 或家範에 違反야 情狀이 重 者。 第十八條, 第六條나 或第七條의 禮遇 享 者가 前條의 境遇에 該當 貴族의 族稱을 除거나 或禮遇 停止거나 又 禁止이라。 第十九條, 有爵者가 禮遇의 停止나 或禁止中에 在 第六條第一項과 及第七條의 禮遇 享 者도 共히 其禮遇 享을 得지못이라。 第二十條, 有爵者가 其品位 保치못 宮內大臣을 經야 爵의 返上을 請願을 得이라。 第二十一條, 第十六條第二項과 第十七條와 及第十八條의 處分은 勅裁 經야 宮內大臣이 行 禮遇의 停止 解除도 亦同니라。 第八條第二項의 規定은 前項의 處分과 及解除에 準用이라 禮遇의 禁止 解除은 特旨에 由이라。 第二十二條, 審査委員에 關 規程은 宮內大臣이 勅裁 經야 定이라。 皇室令第十五號第一條<index num="2056421_0" sort="K" type="지명">朝鮮</index>貴族令第八條와 第十四條와 及第二十一條의 境遇에 <index num="2056422_0" sort="K" type="지명">朝鮮</index>에 在住 貴族에 限야 當時內 <index num="2056423_0" sort="K" type="지명">朝鮮</index>總督이 審査委員으로야곰 審査케 後에 宮內大臣에 移牒이 可이라。 前項의 審査委員은 <index num="2056424_0" sort="K" type="지명">朝鮮</index>總督府高等官中에셔 <index num="2056425_0" sort="K" type="지명">朝鮮</index>總督이 命이라。 審祖委員에 關 規程은 <index num="2056426_0" sort="K" type="지명">朝鮮</index>總督이 宮內大臣에 協議야 定이라。 第二條<index num="2056427_0" sort="K" type="지명">朝鮮</index>貴族令第九條第二項과 第十一條第一項과 及第二十條의 規定에 依야 屆出이나 認許의 申請이나 或請願을 爲에 <index num="2056428_0" sort="K" type="지명">朝鮮</index>에 在住 貴族에 限야 當時內 <index num="2056429_0" sort="K" type="지명">朝鮮</index>總督을 經由이 可이라。 第三條<index num="2056430_0" sort="K" type="지명">朝鮮</index>貴族令第十五條의 規定에 依야 <index num="2056431_0" sort="K" type="지명">朝鮮</index>在住 貴族의 監督上에 必要 事項은 當時內 <index num="2056432_0" sort="K" type="지명">朝鮮</index>總督이 管掌 但主要 事項에 對야 宮內大臣에 協議이 可이라。 第四條<index num="2056433_0" sort="K" type="지명">朝鮮</index>에 在住 貴族이 <index num="2056434_0" sort="K" type="지명">朝鮮</index>總督의 命令에 違反야 情狀이 重 <index num="2056435_0" sort="K" type="지명">朝鮮</index>貴族令第十七條 適用이라。 皇室令第十六號, 敍位條例 <index num="2056436_0" sort="K" type="지명">朝鮮</index>貴族의 敍位에 關야 準用이라。 皇室令第二十號, 前<index num="2056437_0" sort="K" type="지명">朝國</index>宮內府職員에 關 件。 公布。 <annotation type="원주">
+                  <noteContent>【前<index num="2056438_0" sort="K" type="지명">朝國</index>宮內府職員이요 <index num="2056439_0" sort="K" type="지명">朝鮮</index>總督이 殘務取扱을 命 者 當時內 從前의 官職의 區別에 從야 王族과 及公族에 關 事務를 掌理이라。 <index num="2056440_0" sort="K" type="지명">朝鮮</index>에 在住 王族과 及公族에 附屬 前項의 職員은 <index num="2056441_0" sort="K" type="지명">朝鮮</index>總督이 監督이라。】</noteContent>
+                </annotation>
+              </quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10308029_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>통감부 자작 데라우치 마사타케의 포고문</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-08-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="6장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="557면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">統監子爵<index num="2056442_0" sort="J" type="이름">寺內正毅</index>諭告:</paragraph>
+            <paragraph align="center">
+              <quotation>叡聖文武天皇陛下大命을 奉야 本官이 今此<index num="2056443_0" sort="K" type="지명">朝鮮</index>統轄之任을 膺에 際야 施政之綱領을 示으로 <index num="2056444_0" sort="K" type="지명">朝鮮</index>上下民衆에 諭告。 夫疆域이 相接며 休戚이 相倚야 民情亦有昆弟之誼者一相合야 一體 成은 自然之理요, 必至之勢라。 以是로 <index num="2056445_0" sort="J" type="지명">大日本國</index>天皇陛下게셔 <index num="2056446_0" sort="K" type="지명">朝鮮</index>의 安寧을 確實케 保障시고 <index num="2056447_0" sort="K" type="지명">東洋</index>의 平和 永遠히 維持을 緊切케 體念샤 前<index num="2056448_0" sort="K" type="지명">韓國</index>元首의 希望을 應사 其統治權의 讓與 受諾신바ㅡ라。 自今前<index num="2056449_0" sort="K" type="지명">韓國</index>의 皇帝陛下 <index num="2056450_0" sort="K" type="지명">昌德宮</index>李王殿下라 稱며 皇太子 王世子가 되시고 後嗣가 長히 相傳繼承고 萬世無窮지며, 太皇帝陛下 <index num="2056451_0" sort="K" type="지명">德壽宮</index>
+                <index num="2056452_0" ref="M_0000071" sort="K" type="이름">李太王</index>殿下라 稱야, 玆히 皇族의 禮遇 賜시고 其秩俸이 豐厚은 皇位의 在실 時와 無異지라。 <index num="2056453_0" sort="K" type="지명">朝鮮</index>民衆은 咸爲帝國臣民야 被天皇陛下撫育之化고 永히 深仁厚德之惠澤에 浴이라。 殊히 忠順히 新政을 翼贊 賢良은 其功勞 準야 榮爵을 授시며 且恩金을 賜시고 又其材能을 應야 帝國官吏나 或은 中樞院議官之班에 列며 或은 中央又地方官廳之職員에 登庸케심이라。 又班族儒生之耆老가 能히 庶民之師表될 者에 尙齒之恩典을 與시며, 孝子節婦에 鄕黨之模範이 될 者에 襃賞을 賜시와 其德行을 表彰케심이라。 曩者地方官職에 在야 國稅欠逋의 行爲가 有 者 其責任을 解除야 特히 其未勘金의 完納을 一體히 免이라。 又從前法律에 違背 者로 其犯罪性質이 特히 愍諒즉 者에 對야 一律大赦之特典을 與심이라。 如今地方民衆은 積弊之餘孼을 受으로쎠 或失業傾産며 至於尤甚者야 流離饑餓에 瀕 者도 有니 爲先民力의 休養을 圖이 急務로 認야 <index num="2056454_0" type="연호">隆熙</index>二年度以前의 地稅로 尙今未納에 屬 者 此 除免고 <index num="2056455_0" type="연호">隆熙</index>三年以前의 貸付에 屬 社穀은 其還納을 特免케고, 且本年秋季에 徵收 地稅 特히 其五分之一을 輕減며 更히 國帑約一千七百萬圓을 友出야 此 十三道三百二十有餘府郡에 配與케고쎠 士民의 授産敎育의 補助竝凶歉之救濟로 充用케이라。 是皆更始一新之時 當야 惠撫慈養之聖旨 昭케 所以라。 雖然이나 國政之利澤에 浴 者 應其分야 負擔國費이 天下通則이오, 古今東西ㅡ 皆莫不然이라 故로 期必코 這般救恤之本旨 克體야 或狃恩而奉公之心을 失치 勿이 可이라。 凡政之要 生命財産의 安固 圖에 急務가 無지라 蓋히 殖産之法과 興業之途 此次로 振作케을 得이라。 從來不逞之徒와 頑迷之輩가 出沒遐邇야 或殺人命며 或掠財貨며 或企非謀며 或起騷擾 者ㅡ 有니 以是로 帝國軍隊 各道要處에 駐屯야 時變에 備며, 憲兵警官은 普亙都鄙야 專혀 治安의 從事고, 又各地에 法廷을 開며 公平無私 審判을 下케 務은 本是懲罰奸凶여 芟除邪曲키 爲이오 畢竟國內全般之安寧과 秩序 維持고 各人으로야곰 安其堵야 營其業며 治其産케 不外이라。 今<index num="2056456_0" sort="K" type="지명">朝鮮</index>地勢 通觀컨 其南土 肥沃而適農桑며 其北地 槪富鑛物고 內河外海 亦多魚介니 遺利餘澤의 獲收之物이 不少지라 其開發之方法이 得宜면 産業之振作이 期待지어다。 然而産業之發達은 專혀 運輸機關의 完成을 可俟지니 是 創事起業之階梯가 될지어다。 今次通路 十三道各地에 開며 鐵道 <index num="2056457_0" sort="K" type="지명">京城</index>、<index num="2056458_0" sort="K" type="지명">元山</index>及三南地方에 新設야쎠 漸及全土케에 如斯야 大成을 將來에 期고 俱히 其開鑿敷設之工役으로쎠 衆民에 生業을 與면 其窮之을 拯 一助됨을 無疑바ㅡ라 <index num="2056459_0" sort="K" type="지명">朝鮮</index>古來之流弊 好惡乖迕고 惟利相爭에 在니 以是로 一黨得勢ㅡ면 忽戕他派며 一派收力이면 輒仆他黨코쟈야 頡頑排擠가 不知其窮極타가 終히 破産亡家 者ㅡ 不尠이로다。 是有尺害而無寸益지니 爾後樹黨結社야 徒히 輕擧妄動을 事과 如이 無케이 可지어다。 但히 政令이 洽不及下고 民意가 輒不達上야 上壓下怨之弊 釀은 古今에 不乏其例니 因此로 中樞院規模 擴張며 老成賢良을 綱羅야 列其議官고 重要 政務諮詢에 應케지라。 又各道及各府郡에 參與官或參事之職을 設置야 能士俊材 登庸充此고 徵其言議며 聽其獻策으로쎠 政令과 民情이 相無牴牾케을 期。 凡人生之憂患은 莫甚於疾病之酷인 從來<index num="2056460_0" sort="K" type="지명">朝鮮</index>醫術은 未脫幼稚之域으로 以不足救病苦而全天壽을 最히 痛歎바ㅡ라。 曩者<index num="2056461_0" sort="K" type="지명">京城</index>에 <index num="2056462_0" sort="K" type="지명">中央醫院</index>을 開며, 又<index num="2056463_0" sort="K" type="지명">全州</index>、<index num="2056464_0" sort="K" type="지명">淸州</index>及<index num="2056465_0" sort="K" type="지명">咸興</index>에 <index num="2056466_0" sort="K" type="지명">慈惠醫院</index>을 設 以來로 衆庶가 蒙其恩波 者ㅡ 極多나 然이나 尙未普及全土 遺憾인 故로 旣爲發令야 更히 各道에 <index num="2056467_0" sort="K" type="지명">慈惠醫院</index>을 增設케며 名醫 置고 良藥을 備야 起死回生之仁術을 汎施케이라。 顧컨 人文發達은 後進敎育에 不可不俟라。 敎育之要 進智磨德야 以在資於修身齊家이나 然이나 諸生이 輒厭其勞而就其逸고 徒談空理而流放漫은 終히 無爲徒食之民이 된 者ㅡ 往往有之니 自今으로 宜矯其弊야 去華就實며 一洗其懶惰陋習고 涵養勤儉之美風을 努이 可홈。 信敎의 自由 文明列國이 均認바ㅡ라。 各人이 其崇拜 敎旨 倚야쎠 安心立命之地 求은 固雖其所ㅡ나 宗派의 異同으로쎠 漫히 試其紛爭며 又藉名信敎야 叩議政事며 若企異圖은 卽茶毒良俗야 妨害安寧 者로 認야 當히 按法處斷치아니치못리라。 然이나 儒佛諸敎與基督敎 不問고 其本旨 畢竟人心世態 改善에 在 故로 固히 施政之目的과 不爲背馳而已아니라 도로혀 可히 此 裨補 者로 不疑니 以是로 各種宗敎 待에 毫無挾於親疎之念을 勿論고 其布敎傳道에 對야 適當 保護便宜 與이 不吝이라。 本官이 今奉聖旨而莅此地은 一히 治下生民의 安寧과 幸福을 增進코쟈 欲 外에 他念이 無이라。 此玆에 諄諄히 其適從바 論示 所以라。 漫히 逞其妄想야 妨礙施政 者ㅡ가 有면 斷無假貸之所ㅡ라。 至若忠誠持身야 謹愼守法 良士順民야 必霑皇化之惠澤야 其子孫이 亦永浴恩波이니, 爾等은 恪히 新政宏謨 奉體야 苟無所違케지어다。 </quotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10308030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 8月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-08-30L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 8월 30일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 30일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 8월 30일</dateOccured>
+            <dateOccured type="단기">4243년 8월 30일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 8월 30일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 8월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10308030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 예식관 현백운을 보내어 대구에서 칙사를 맞이하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-08-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十日。 遣前禮式官<index num="2056468_0" ref="M_0060604" sort="K" type="이름">玄百運</index>, 出迎勅使于<index num="2056469_0" sort="K" type="지명">大邱</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_103090">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]三年 九月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]三年 九月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_10309001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 9月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-09-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 9월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 9월 1일</dateOccured>
+            <dateOccured type="단기">4243년 9월 1일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 9월 1일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 9월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10309001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이나바 마사나와가 천황의 조서와 하사품을 전달하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆庚戌七月二十八日】</noteContent>
+              </annotation> 勅使式部官子爵<index num="2056470_0" sort="J" type="이름">稻葉正繩</index>, 來<index num="2056471_0" sort="K" type="지명">昌德宮</index>, 傳達天皇陛下詔書及下賜品。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10309001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>통감 관저에 알려 사례해 줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-09-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">行啓于統監官邸, 託轉奏謝禮。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10309002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 9月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-09-02L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 9월 2일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 2일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 9월 2일</dateOccured>
+            <dateOccured type="단기">4243년 9월 2일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 9월 2일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 9월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10309002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>공문서 취급안을 각 관청에 전달하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-09-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二日。 公文書取扱案을 前宮內府各官廳長官에계 通達다。<annotation type="원주">
+                <noteContent>【一, 從來宮內府大臣의 名義로쎠 發送又 處理던 公文의 署名은‘前<index num="2056472_0" sort="K" type="지명">韓國</index>宮內府大臣殘務取扱氏名’을 用고 以下各官도 此에 準 事。 二, 府印及各官廳의 官印은 此를 使用치아니고 又各宮의 官印을 捺用이 可 境遇에 總히 私印을 捺用 事。 三, 兩宮의 御動靜에 關야 公文에 使用 字句 從來慣用의 敬語 王殿下에 相當 敬語로 改 事。 四, 從來上奏裁可 境遇에 用던‘上奏’의 文字‘上啓’의 文字라고, ‘可’又‘聞’字印의 代에‘啓’字印을 使用 事。 五, 年號 <index num="2056473_0" type="연호">明治</index>를 用 事。 六, 府外各官廳에 對 公文은 總히 <index num="2056474_0" sort="J" type="지명">日本</index>文을 用 事。 但府內에 照會往復文書 從前과 如히 國漢文을 用이 無妨홈。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10309008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 9月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-09-08L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 9월 8일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 8일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 9월 8일</dateOccured>
+            <dateOccured type="단기">4243년 9월 8일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 9월 8일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 9월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10309008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>탄신일이기 때문에 덕수궁을 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-09-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">八日。 詣<index num="2056475_0" sort="K" type="지명">德壽宮</index>覲謁。 王妃隨詣。 以誕辰也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10309014">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 9月 14日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-09-14L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 9월 14일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 14일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 9월 14일</dateOccured>
+            <dateOccured type="단기">4243년 9월 14일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 9월 14일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 9월 14일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10309014_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>자작 소네 아라스케가 죽다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-09-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十四日。 子爵<index num="2056476_0" sort="J" type="이름">曾禰荒助</index>喪。 贈與祭粢料金五千圓。 遣前禮式官<index num="2056477_0" ref="M_0001098" sort="K" type="이름">高羲誠</index>, 參列葬式。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10309015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 9月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-09-15L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 9월 15일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 15일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 9월 15일</dateOccured>
+            <dateOccured type="단기">4243년 9월 15일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 9월 15일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 9월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10309015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 농상공부대신 조중응에게 돈을 주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-09-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十五日。 特賜金貳千圓于前農商工部大臣<index num="2056478_0" ref="M_0006188" sort="K" type="이름">趙重應</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10309030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 9月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-09-30L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 9월 30일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 30일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 9월 30일</dateOccured>
+            <dateOccured type="단기">4243년 9월 30일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 9월 30일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 9월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10309030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조선 총독부 관제 칙령, 중추원 칙령, 취조국 칙령 등을 공포하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-09-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十日。 勅令第三百五十四號, <index num="2056479_0" sort="K" type="지명">朝鮮</index>總督府官制。 勅令第三百五十五號, <index num="2056480_0" sort="K" type="지명">朝鮮</index>總督府中樞院官制。 勅令第三百五十六號, <index num="2056481_0" sort="K" type="지명">朝鮮</index>總督府取調局官制。 勅令第三百五十七號, <index num="2056482_0" sort="K" type="지명">朝鮮</index>總督府地方官官制。 勅令第三百六十一號, <index num="2056483_0" sort="K" type="지명">朝鮮</index>總督府臨時土地調査局官制。 竝公布。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_103100">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]三年 十月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]三年 十月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_10310007">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 7日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-07L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 7일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 7일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 7일</dateOccured>
+            <dateOccured type="단기">4243년 10월 7일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 7일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 7일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310007_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이재완, 이재각, 이해창 등에게 귀족의 칭호를 주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">七日。<annotation type="원주">
+                <noteContent>【陰曆庚戌九月初四日】</noteContent>
+              </annotation>
+              <index num="2056484_0" ref="M_0005042" sort="K" type="이름">李載完</index>、<index num="2056485_0" ref="M_0005030" sort="K" type="이름">李載覺</index>、<index num="2056486_0" ref="M_0005363" sort="K" type="이름">李海昌</index>、<index num="2056487_0" ref="M_0005358" sort="K" type="이름">李海昇</index>、<index num="2056488_0" ref="M_0003956" sort="K" type="이름">尹澤榮</index>、<index num="2056489_0" ref="M_0002565" sort="K" type="이름">朴泳孝</index>, 依<index num="2056490_0" sort="K" type="지명">朝鮮</index>貴族令, 侯爵被授; <index num="2056491_0" ref="M_0005211" sort="K" type="이름">李址鎔</index>、<index num="2056492_0" ref="M_0063607" sort="K" type="이름">閔泳璘</index>、<index num="2056493_0" ref="M_0004794" sort="K" type="이름">李完用</index>, 伯爵被授; <index num="2056494_0" ref="M_0042230" sort="K" type="이름">李完鎔</index>、<index num="2056495_0" ref="M_0040059" sort="K" type="이름">李埼鎔</index>、<index num="2056496_0" ref="M_0064328" sort="K" type="이름">朴齊純</index>、<index num="2056497_0" ref="M_0001077" sort="K" type="이름">高永喜</index>、<index num="2056498_0" ref="M_0006188" sort="K" type="이름">趙重應</index>、<index num="2056499_0" ref="M_0002315" sort="K" type="이름">閔丙奭</index>、<index num="2056500_0" ref="M_0004806" sort="K" type="이름">李容稙</index>、<index num="2056501_0" ref="M_0027975" sort="K" type="이름">金允植</index>、<index num="2056502_0" ref="M_0001249" sort="K" type="이름">權重顯</index>、<index num="2056503_0" ref="M_0005331" sort="K" type="이름">李夏榮</index>、<index num="2056504_0" ref="M_0004173" sort="K" type="이름">李根澤</index>、<index num="2056505_0" ref="M_0002985" sort="K" type="이름">宋秉畯</index>、<index num="2056506_0" ref="M_0005576" sort="K" type="이름">任善準</index>、<index num="2056507_0" ref="M_0005032" sort="K" type="이름">李載崑</index>、<index num="2056508_0" ref="M_0003802" sort="K" type="이름">尹德榮</index>、<index num="2056509_0" ref="M_0006032" sort="K" type="이름">趙民熙</index>、<index num="2056510_0" ref="M_0028369" sort="K" type="이름">李秉武</index>、<index num="2056511_0" ref="M_0027780" sort="K" type="이름">李根命</index>、<index num="2056512_0" ref="M_0063603" sort="K" type="이름">閔泳奎</index>、<index num="2056513_0" ref="M_0063611" sort="K" type="이름">閔泳韶</index>、<index num="2056514_0" ref="M_0063616" sort="K" type="이름">閔泳徽</index>、<index num="2056515_0" ref="M_0001637" sort="K" type="이름">金聲根</index>, 子爵被授; <index num="2056516_0" ref="M_0003885" sort="K" type="이름">尹用求</index>、<index num="2056517_0" ref="M_0006610" sort="K" type="이름">洪淳馨</index>、<index num="2056518_0" ref="M_0001626" sort="K" type="이름">金奭鎭</index>、<index num="2056519_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>、<index num="2056520_0" ref="M_0004170" sort="K" type="이름">李根湘</index>、<index num="2056521_0" ref="M_0006243" sort="K" type="이름">趙羲淵</index>、<index num="2056522_0" ref="M_0064321" sort="K" type="이름">朴齊斌</index>、<index num="2056523_0" ref="M_0002871" sort="K" type="이름">成岐運</index>、<index num="2056524_0" ref="M_0001970" sort="K" type="이름">金春熙</index>、<index num="2056525_0" ref="M_0006015" sort="K" type="이름">趙同熙</index>、<index num="2056526_0" ref="M_0002427" sort="K" type="이름">朴箕陽</index>、<index num="2056527_0" ref="M_0001576" sort="K" type="이름">金思濬</index>、<index num="2056528_0" ref="M_0053146" sort="K" type="이름">張錫周</index>、<index num="2056529_0" ref="M_0063580" sort="K" type="이름">閔商鎬</index>、<index num="2056530_0" ref="M_0006013" sort="K" type="이름">趙東潤</index>、<index num="2056531_0" ref="M_0006315" sort="K" type="이름">崔錫敏</index>、<index num="2056532_0" ref="M_0006429" sort="K" type="이름">韓圭卨</index>、<index num="2056533_0" ref="M_0003596" sort="K" type="이름">兪吉濬</index>、<index num="2056534_0" ref="M_0002178" sort="K" type="이름">南廷哲</index>、<index num="2056535_0" ref="M_0003998" sort="K" type="이름">李乾夏</index>、<index num="2056536_0" ref="M_0004807" sort="K" type="이름">李容泰</index>、<index num="2056537_0" ref="M_0063605" sort="K" type="이름">閔泳達</index>、<index num="2056538_0" ref="M_0062757" sort="K" type="이름">閔泳綺</index>、<index num="2056539_0" ref="M_0043308" sort="K" type="이름">李鍾健</index>、<index num="2056540_0" ref="M_0004421" sort="K" type="이름">李鳳儀</index>、<index num="2056541_0" ref="M_0003891" sort="K" type="이름">尹雄烈</index>、<index num="2056542_0" ref="M_0040009" sort="K" type="이름">李根澔</index>、<index num="2056543_0" ref="M_0001294" sort="K" type="이름">金嘉鎭</index>、<index num="2056544_0" ref="M_0005750" sort="K" type="이름">鄭洛鎔</index>、<index num="2056545_0" ref="M_0002343" sort="K" type="이름">閔種默</index>、<index num="2056546_0" ref="M_0005033" sort="K" type="이름">李載克</index>、<index num="2056547_0" ref="M_0004909" sort="K" type="이름">李允用</index>、<index num="2056548_0" ref="M_0005068" sort="K" type="이름">李正魯</index>、<index num="2056549_0" ref="M_0027959" sort="K" type="이름">金永哲</index>、<index num="2056550_0" ref="M_0004802" sort="K" type="이름">李容元</index>、<index num="2056551_0" ref="M_0001898" sort="K" type="이름">金宗漢</index>、<index num="2056552_0" ref="M_0006157" sort="K" type="이름">趙鼎九</index>、<index num="2056553_0" ref="M_0002015" sort="K" type="이름">金鶴鎭</index>、<index num="2056554_0" ref="M_0027708" sort="K" type="이름">朴容大</index>、<index num="2056555_0" ref="M_0005986" sort="K" type="이름">趙慶鎬</index>、<index num="2056556_0" ref="M_0001578" sort="K" type="이름">金思轍</index>、<index num="2056557_0" ref="M_0001552" sort="K" type="이름">金炳翊</index>、<index num="2056558_0" ref="M_0005153" sort="K" type="이름">李胄榮</index>、<index num="2056559_0" ref="M_0005943" sort="K" type="이름">鄭漢朝</index>, 男爵被授。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-08L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 8일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 8일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 8일</dateOccured>
+            <dateOccured type="단기">4243년 10월 8일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 8일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕비가 용산 총독 관저에 가다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">八日。 王妃臨于<index num="2056560_0" sort="K" type="지명">龍山</index>總督官邸。 以宴會也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-10L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 10일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 10일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 10일</dateOccured>
+            <dateOccured type="단기">4243년 10월 10일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 10일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이왕가 세비 50만원을 지출하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>재정-재정일반(財政一般)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十日。 <index num="2056561_0" sort="K" type="지명">朝鮮</index>總督府特別會計歲出豫算外支出李王家歲費金五拾萬圓。 經勅裁公布。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310012">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 12日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-12L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 12일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 12일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 12일</dateOccured>
+            <dateOccured type="단기">4243년 10월 12일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 12일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 12일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 궁중 고문관 이윤용에게 위로금을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十二日。 賜慰勞金壹千圓于前宮中顧問官<index num="2056562_0" ref="M_0004909" sort="K" type="이름">李允用</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10310012_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독 자작 부처와 태왕 전하를 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-10-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-종사(宗社)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">接見總督子爵<index num="2056563_0" sort="J" type="이름">寺內正毅</index>夫人<index num="2056564_0" sort="J" type="이름">多喜子</index>于<index num="2056565_0" sort="K" type="지명">仁政殿</index>。 太王殿下, 亦接見于<index num="2056566_0" sort="K" type="지명">咸寧殿</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10310012_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>탄신일이기 때문에 조민희와 윤덕영을 동경 왕세자 별저에 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1910-10-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">兩宮遣子爵<index num="2056567_0" ref="M_0003802" sort="K" type="이름">尹德榮</index>、子爵<index num="2056568_0" ref="M_0006032" sort="K" type="이름">趙民熙</index>于<index num="2056569_0" sort="J" type="지명">東京</index>王世子別邸。 以誕辰參賀也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310014">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 14日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-14L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 14일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 14일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 14일</dateOccured>
+            <dateOccured type="단기">4243년 10월 14일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 14일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 14일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310014_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>남작 윤용구에게 유시를 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="9장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十四日。 命前侍從<index num="2056570_0" ref="M_0039847" sort="K" type="이름">李喬永</index>、<index num="2056571_0" ref="M_0035550" sort="K" type="이름">金璜鎭</index>、<index num="2056572_0" ref="M_0047471" sort="K" type="이름">朴善斌</index>, 分諭男爵<index num="2056573_0" ref="M_0003885" sort="K" type="이름">尹用求</index>等曰: "曩者時局問題를 平和로 解決된 後 天皇陛下게셔 深原신 同情을 表사 宗親과 及前日我國事에 勤勞가 素有 諸人에게 <index num="2056574_0" sort="K" type="지명">朝鮮</index>貴族令을 設고 貴爵을 授封시고 勞金을 加賜시니, 此誠罕有之盛擧요 特別 優遇인즉, 於予衷心에도 亦所深感 者ㅡ라。 念컨 吾卿도 予衷에 在바를 諒悉지니 所以로 今에 前侍從을 特派야 此旨 傳諭케노니 卿은 勿辭祗受야 予心을 以安케라。 <annotation type="원주">
+                <noteContent>【時被爵人中<index num="2056575_0" ref="M_0001626" sort="K" type="이름">金奭鎭</index>仰藥自死。 <index num="2056576_0" ref="M_0006157" sort="K" type="이름">趙鼎九</index>自刎而未死, 仍不受爵。 <index num="2056577_0" ref="M_0003885" sort="K" type="이름">尹用求</index>、<index num="2056578_0" ref="M_0006429" sort="K" type="이름">韓圭卨</index>、<index num="2056579_0" ref="M_0003596" sort="K" type="이름">兪吉濬</index>、<index num="2056580_0" ref="M_0063605" sort="K" type="이름">閔泳達</index>、<index num="2056581_0" ref="M_0006610" sort="K" type="이름">洪淳馨</index>、<index num="2056582_0" ref="M_0005986" sort="K" type="이름">趙慶鎬</index>, 辭爵返上。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10310014_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동경에 출장가는 조민희와 유찬에게 돈을 주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-10-14L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">特賜金五百圓于前承寧府總管<index num="2056583_0" ref="M_0006032" sort="K" type="이름">趙民熙</index>, 壹百圓于前掌禮院禮式官<index num="2056584_0" ref="M_0038970" sort="K" type="이름">劉燦</index>。 以<index num="2056585_0" sort="J" type="지명">東京</index>出張也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310019">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 19日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-19L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 19일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 19일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 19일</dateOccured>
+            <dateOccured type="단기">4243년 10월 19일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 19일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 19일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕비가 정무 총감의 부인에게 어배식을 내리다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-19L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十九日。 王妃臨于<index num="2056586_0" sort="K" type="지명">仁政殿</index>, 賜政務總監<index num="2056587_0" sort="J" type="이름">山縣伊三郞</index>夫人御陪食。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-20L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 20일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 20일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 20일</dateOccured>
+            <dateOccured type="단기">4243년 10월 20일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 20일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>선정전에서 각도 장관의 알현을 받다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-종사(宗社)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十日。 臨于<index num="2056588_0" sort="K" type="지명">宣政殿</index>, 受各道長官謁見。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-22L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 22일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 22일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 22일</dateOccured>
+            <dateOccured type="단기">4243년 10월 22일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 22일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>귀족 동경 관광단에게 특별금을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十二日。 特賜金五千圓于貴族<index num="2056589_0" sort="J" type="지명">東京</index>觀光團。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-26L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 26일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 26일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 26일</dateOccured>
+            <dateOccured type="단기">4243년 10월 26일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 26일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>뚝섬 원예 모범장을 관람하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十六日。 行啓于<index num="2056590_0" sort="K" type="지명">纛島</index>園藝模範場, 觀覽。 王妃同臨。 仍下賜酒肴料五拾圓于該場職員一同。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-27L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 27일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 27일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 27일</dateOccured>
+            <dateOccured type="단기">4243년 10월 27일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 27일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕수궁을 알현하고 경효전에 작헌례를 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十七日。 詣<index num="2056591_0" sort="K" type="지명">德壽宮</index>覲謁。 王妃隨詣。 仍詣<index num="2056592_0" sort="K" type="지명">景孝殿</index>, 行酌獻禮。 王妃隨詣, 行禮。 因<index num="2056593_0" ref="M_0006783" sort="K" type="이름">明成皇后</index>六旬誕辰也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10310027_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>태왕 전하가 박영효에게 경효전에서 전작례를 거행하도록 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-10-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">太王殿下, 命侯爵<index num="2056594_0" ref="M_0002565" sort="K" type="이름">朴泳孝</index>, 攝行<index num="2056595_0" sort="K" type="지명">景孝殿</index>奠酌禮。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10310030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 10月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-10-30L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 10월 30일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 30일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 10월 30일</dateOccured>
+            <dateOccured type="단기">4243년 10월 30일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 10월 30일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 10월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10310030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>인정전에서 평양 여단장을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-10-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十日。 接見<index num="2056596_0" sort="K" type="지명">平壤</index>旅團長于<index num="2056597_0" sort="K" type="지명">仁政殿</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_103110">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]三年 十一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]三年 十一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_10311001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 1일</dateOccured>
+            <dateOccured type="단기">4243년 11월 1일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 1일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감의 부인과 전 차관의 부인이 덕수궁을 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆庚戌九月三十日】</noteContent>
+              </annotation> 政務總監<index num="2056598_0" sort="J" type="이름">山縣伊三郞</index>夫人, 謁見于<index num="2056599_0" sort="K" type="지명">德壽宮</index>。 以還渡<index num="2056600_0" sort="J" type="지명">東京</index>也。 前次官<index num="2056601_0" sort="J" type="이름">小宮三保松</index>, 同夫人謁見。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-03L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 3일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 3일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 3일</dateOccured>
+            <dateOccured type="단기">4243년 11월 3일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 3일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>천장절이기 때문에 총독 관저에 가서 축하식에 참여하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三日。 行啓于總督官邸, 參祝賀。 太王殿下, 遣前侍從長<index num="2056602_0" ref="M_0001970" sort="K" type="이름">金春熙</index>, 參祝賀。 以天長節也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-04L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 4일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 4일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 4일</dateOccured>
+            <dateOccured type="단기">4243년 11월 4일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 4일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>비공식적인 경우에는 왕세자 전하를 창덕 전하라고 칭하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">四日。 王世子殿下, 非公式境遇則稱‘昌德’, 若宮事自宗秩寮通知來。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311009">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 9日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-09L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 9일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 9일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 9일</dateOccured>
+            <dateOccured type="단기">4243년 11월 9일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 9일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 9일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311009_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감과 각 장관, 영국 대사 등을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-09L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>외교-러시아[露]</subjectClass>
+            <subjectClass>외교-영국(英)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">九日。 臨于<index num="2056603_0" sort="K" type="지명">仁政殿</index>。 接見政務總監<index num="2056604_0" sort="J" type="이름">山縣伊三郞</index>以下各長官及滯留中<index num="2056605_0" sort="W" type="지명">英國</index>大使<index num="2056606_0" ref="M_1000042" sort="W" type="이름">막드날드</index>, 賜午餐。 仍臨<index num="2056607_0" sort="K" type="지명">暎花堂</index>, 覽<index num="2056608_0" sort="W" type="지명">露國</index>曲馬戲。 貴族諸員陪參。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-11L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 11일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 11일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 11일</dateOccured>
+            <dateOccured type="단기">4243년 11월 11일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 11일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감을 덕수궁에서 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十一日。 政務總監<index num="2056609_0" sort="J" type="이름">山縣伊三郞</index>, 謁見于<index num="2056610_0" sort="K" type="지명">德壽宮</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 17일</dateOccured>
+            <dateOccured type="단기">4243년 11월 17일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 17일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이지용, 박제순 등을 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 伯爵<index num="2056611_0" ref="M_0005211" sort="K" type="이름">李址鎔</index>、子爵<index num="2056612_0" ref="M_0064328" sort="K" type="이름">朴齊純</index>·<index num="2056613_0" ref="M_0004806" sort="K" type="이름">李容稙</index>、男爵<index num="2056614_0" ref="M_0005033" sort="K" type="이름">李載克</index>、勳一等<index num="2056615_0" ref="M_0005163" sort="K" type="이름">李埈鎔</index>, 謁見于<index num="2056616_0" sort="K" type="지명">德壽宮</index>。 自<index num="2056617_0" sort="J" type="지명">東京</index>還渡也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-18L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 18일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 18일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 18일</dateOccured>
+            <dateOccured type="단기">4243년 11월 18일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 18일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동경에서 돌아온 관광단 일행을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十八日。 召見觀光團一行于<index num="2056618_0" sort="K" type="지명">仁政殿</index>。 自<index num="2056619_0" sort="J" type="지명">東京</index>還渡也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-21L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 21일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 21일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 21일</dateOccured>
+            <dateOccured type="단기">4243년 11월 21일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 21일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕수궁을 알현하고 선원전, 경효전, 의효전을 참배하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十一日。 詣<index num="2056620_0" sort="K" type="지명">德壽宮</index>覲謁。 王妃隨詣。 仍詣<index num="2056621_0" sort="K" type="지명">璿源殿</index>、<index num="2056622_0" sort="K" type="지명">景孝殿</index>展謁, <index num="2056623_0" sort="K" type="지명">懿孝殿</index>展拜。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10311030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 11月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-11-30L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 11월 30일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 30일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 11월 30일</dateOccured>
+            <dateOccured type="단기">4243년 11월 30일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 11월 30일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 11월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10311030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>본원사 관장 대곡광연이 양궁에 물품을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-11-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>재정-진상(進上)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十日。 <index num="2056624_0" sort="J" type="지명">京都</index>大谷派<index num="2056625_0" sort="J" type="지명">本願寺</index>管長伯爵<index num="2056626_0" sort="J" type="이름">大谷光演</index>。 獻上物品于兩宮。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10311030_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 어원 사무국 부장 유한성의 초상에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-11-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">特賜金二百圓于前御苑事務局部長<index num="2056627_0" ref="M_0039080" sort="K" type="이름">劉漢性</index>喪。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_103120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]三年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]三年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_10312007">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 7日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-07L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 7일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 7일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 7일</dateOccured>
+            <dateOccured type="단기">4243년 12월 7일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 7일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 7일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312007_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>치아를 치료하기 위해 의사 반종철이 오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">七日。<annotation type="원주">
+                <noteContent>【陰曆庚戌十一月初六日】</noteContent>
+              </annotation> 齒科醫<index num="2056628_0" sort="J" type="이름">飯塜徹</index>入診。 以齒部靡寧治療也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312012">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 12日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-12L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 12일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 12일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 12일</dateOccured>
+            <dateOccured type="단기">4243년 12월 12일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 12일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 12일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조선 총독부와 소속 관서의 집무 시간을 정하여 시행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>행정-중앙행정(中央行政)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十二日。 <index num="2056629_0" sort="K" type="지명">朝鮮</index>總督府及所屬官署執務時間定行。 <annotation type="원주">
+                <noteContent>【三月十一日至四月三十日, 自午前九時至午後四時, 但土曜日止午後一時; 五月一日至六月三十日, 自午前八時至午後四時, 但土曜日止午後一時; 七月一日至九月二十日, 自午前八時至正午十二時; 九月二十一日至十月三十一日, 自午前九時至午後四時, 但土曜日止午後一時; 十一月一日至翌年三月十日, 自午前十時至午後四時, 但土曜日止午後一時。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-16L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 16일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 16일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 16일</dateOccured>
+            <dateOccured type="단기">4243년 12월 16일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 16일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>지진이 있다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十六日。 地震。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 17일</dateOccured>
+            <dateOccured type="단기">4243년 12월 17일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 17일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조선에 작위가 있는 자의 대례복 제도를 비준하여 공포하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 皇室令第二十二號, <index num="2056630_0" sort="K" type="지명">朝鮮</index>有爵者大禮服制度。 裁可公布。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-18L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 18일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 18일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 18일</dateOccured>
+            <dateOccured type="단기">4243년 12월 18일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 18일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>체증을 진료하러 전의가 덕수궁에 오다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十八日。 典醫<index num="2056631_0" ref="M_0006709" sort="K" type="이름">洪哲普</index>、<index num="2056632_0" ref="M_0030189" sort="K" type="이름">金瀅培</index>入診于<index num="2056633_0" sort="K" type="지명">德壽宮</index>。 以滯祟靡寧, 旋卽康復。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312024">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 24日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-24L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 24일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 24일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 24일</dateOccured>
+            <dateOccured type="단기">4243년 12월 24일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 24일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 24일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312024_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독 데라우치 마사타케를 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-24L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十四日。 行啓于<index num="2056634_0" sort="K" type="지명">南大門驛</index>, 接見總督子爵<index num="2056635_0" sort="J" type="이름">寺內正毅</index>。 以歸任也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 25일</dateOccured>
+            <dateOccured type="단기">4243년 12월 25일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 25일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독 자작이 양궁에 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 總督子爵<index num="2056636_0" sort="J" type="이름">寺內正毅</index>, 謁見于兩宮。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-26L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 26일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 26일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 26일</dateOccured>
+            <dateOccured type="단기">4243년 12월 26일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 26일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독 자작, 정무 총감, 군사령관 등에게 세밑 물품을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="10장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="561면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十六日。 賜歲儀物品于總督子爵<index num="2056637_0" sort="J" type="이름">寺內正毅</index>、政務總監<index num="2056638_0" sort="J" type="이름">山縣伊三郞</index>、軍司令官<index num="2056639_0" sort="J" type="이름">大久保春野</index>及故公爵<index num="2056640_0" sort="J" type="이름">伊藤博文</index>未亡人。 <index num="2056641_0" sort="K" type="지명">德壽宮</index>, 亦賜以上各員。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-27L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 27일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 27일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 27일</dateOccured>
+            <dateOccured type="단기">4243년 12월 27일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 27일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>세밑에 내리는 상으로 이희 공, 민병석 등에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十七日。 特賜金各壹千圓于<index num="2056642_0" ref="M_0000815" sort="K" type="이름">李熹公</index>、<index num="2056643_0" ref="M_0000430" sort="K" type="이름">李堈公</index>、侯爵<index num="2056644_0" ref="M_0003956" sort="K" type="이름">尹澤榮</index>, 壹千貳百圓于前宮內府大臣殘務取扱<index num="2056645_0" ref="M_0002315" sort="K" type="이름">閔丙奭</index>, 六百六拾六圓于伯爵<index num="2056646_0" ref="M_0004794" sort="K" type="이름">李完用</index>, 各五百圓于子爵<index num="2056647_0" ref="M_0064328" sort="K" type="이름">朴齊純</index>、<index num="2056648_0" ref="M_0004806" sort="K" type="이름">李容稙</index>、<index num="2056649_0" ref="M_0001077" sort="K" type="이름">高永喜</index>、<index num="2056650_0" ref="M_0006188" sort="K" type="이름">趙重應</index>。 以歲末賞賜也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-28L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 28일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 28일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 28일</dateOccured>
+            <dateOccured type="단기">4243년 12월 28일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 28일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독부의 통지문으로 육군 대장의 제복을 입고 그 관직에 대한 예우를 표시하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十八日。 "名譽를 表彰키 爲야 陸軍大將의 制服을 著시고 其官에 對 禮遇 享시게이라。" 有總督府通牒也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312028_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕수궁을 알현하고 선원전, 경효전을 참배하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">詣<index num="2056651_0" sort="K" type="지명">德壽宮</index>覲謁。 王妃隨詣。 仍詣<index num="2056652_0" sort="K" type="지명">璿源殿</index>、<index num="2056653_0" sort="K" type="지명">景孝殿</index>展謁。 王妃隨詣, 行禮。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312028_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감과 군사령관이 물품을 진헌하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1910-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">政務總監<index num="2056654_0" sort="J" type="이름">山縣伊三郞</index>、軍司令官<index num="2056655_0" sort="J" type="이름">大久保春野</index>, 各進獻物品。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312028_004">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감이 물품을 덕수궁에 진헌하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">004</docNo>
+            <date>
+              <dateOccured date="1910-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">政務總監<index num="2056656_0" sort="J" type="이름">山縣伊三郞</index>, 進獻物品于<index num="2056657_0" sort="K" type="지명">德壽宮</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312028_005">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>군사령관 오쿠보 하루노가 덕수궁에 물품을 진헌하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">005</docNo>
+            <date>
+              <dateOccured date="1910-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>재정-진상(進上)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">軍司令官<index num="2056658_0" sort="J" type="이름">大久保春野</index>, 進獻物品于<index num="2056659_0" sort="K" type="지명">德壽宮</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-29L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 29일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 29일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 29일</dateOccured>
+            <dateOccured type="단기">4243년 12월 29일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 29일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독부의 통지로 왕세자의 제복이 육군 보병 중위의 정복으로 되다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十九日。 王世子御制服, 用陸軍步兵中尉正服。 因總督府通知也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312029_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>태왕 전하가 정무 총감을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-12-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">太王殿下, 接見政務總監<index num="2056660_0" sort="J" type="이름">山縣伊三郞</index>于便殿。 以歲底謁見也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_10312030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 3年 12月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1910-12-30L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 3년 12월 30일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 30일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 2년 12월 30일</dateOccured>
+            <dateOccured type="단기">4243년 12월 30일</dateOccured>
+            <dateOccured type="일본연호">명치(明治)43년 12월 30일</dateOccured>
+            <dateOccured type="display">일 명치(明治)43년 12월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_10312030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이왕직 관제를 비준하여 공포하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1910-12-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="11장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="562면"/>
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十日。 皇室令第三十四號, 李王職官制 裁可公布。</paragraph>
+            <paragraph align="center">
+              <quotation>李王職官制: 第一條, 李王職은 宮內大臣의 管理에 屬야 王族과 及公族의 家務 掌이라。 第二條, 李王職에 左의 職員을 置이라。 長官、次官、事務官、贊侍、典祀、典醫、技師、屬典祀補、典醫補、技手。 第三條, 長官은 一人이니, 勅任으로 홈。 李王職一切의 事務 總理야 所部職員을 指揮監督이라。 第四條, 次官은 一人이니, 勅任으로 홈。 長官을 輔야 長官이 事故가 有  其職務 代理이라。 第五條, 事務官은 三十六人이니, 奏任으로 홈。 其中에 三人을 勅任으로 事 得야 庶務 分掌이라。 第六條, 贊侍 十二人이니, 奏任으로 홈。 其中에 二人을 勅任으로 事 得야 李王과 及<index num="2056661_0" ref="M_0000071" sort="K" type="이름">李太王</index>에게 近侍야 身側의 事 分掌이라。 第七條, 典祀 八人이니, 奏任으로 홈。 名譽官으로 事 得야 祭祀와 及墳塋에 關 事務 分掌이라。 第八條, 典醫 六人이니, 奏任으로 홈。 診候調藥과 及衛生의 事 分掌이라。 第九條技師 三人이니, 奏任으로 홈。 建築土木과 及園藝에 關 技術의 事 分掌이라。 第十條, 屬은 判任으로 홈。 庶務에 從事이라。 第十一條, 典祀補 判任으로 홈。 祭祀에 從事이라。 第十二條, 典醫補 判任으로 홈。 醫務에 從事이라。 第十三條, 技手 判任으로 홈。 建築土木과 及園藝의 技術에 從事이라。 第十四條, <index num="2056662_0" ref="M_0000071" sort="K" type="이름">李太王</index>에게 事務官七人과 贊侍三人과 典醫二人과 屬과 及典醫補, 王世子에게 事務官과 贊侍와 典醫各一人과 屬과 及典醫補, 公族에 게 事務官各二人과 及屬을 分屬케이라。 附則, 本令은 <index num="2056663_0" type="연호">明治</index>四十四年二月一日부터 施行이라。 </quotation>
+            </paragraph>
+            <paragraph align="center">皇室令第三十五號, 宮內官官等俸給令中改正件。 裁可公布。<annotation type="원주">
+                <noteContent>【李王職職員俸給表加入】</noteContent>
+              </annotation> 皇室令第三十六號, <index num="2056664_0" sort="K" type="지명">朝鮮</index>人의 宮內官이 <index num="2056665_0" sort="K" type="지명">朝鮮</index>에 在勤 者의 俸給에 關 件。 裁可公布。 皇室令第三十七號, 宮內官任用令中改正件。 裁可公布。<annotation type="원주">
+                <noteContent>【李王職職員加入】</noteContent>
+              </annotation> 皇室令第三十八號, 宮內官分限令中改正件。 裁可公布。<annotation type="원주">
+                <noteContent>【李王職職員加入】</noteContent>
+              </annotation> 皇室令第三十九號, <index num="2056666_0" sort="K" type="지명">朝鮮</index>의 李王職의 事務와 及<index num="2056667_0" sort="K" type="지명">朝鮮</index>에 在勤 李王職職員에 關 件。 裁可公布。 "第一條, <index num="2056668_0" sort="K" type="지명">朝鮮</index>의 李王職의 事務와 及<index num="2056669_0" sort="K" type="지명">朝鮮</index>에 在勤 李王職職員은 <index num="2056670_0" sort="K" type="지명">朝鮮</index>總督이 監督이라。 第二條, <index num="2056671_0" sort="K" type="지명">朝鮮</index>總督이 <index num="2056672_0" sort="K" type="지명">朝鮮</index>에 在勤 李王職職員이 宮內官懲戒令에 依야 免官커나 又 減俸에 當만 所爲가 有다。 思料  證憑을 具야 書面으로쎠 李王職職員懲戒委員의 審査에 依이 可이라。 第三條, <index num="2056673_0" sort="K" type="지명">朝鮮</index>에 在勤 李王職職員의 免官과 及減俸은 李王職職員懲戒委員의 議決을 具야 <index num="2056674_0" sort="K" type="지명">朝鮮</index>總督이 宮內大臣에게 移牒이라。 第四條, <index num="2056675_0" sort="K" type="지명">朝鮮</index>에 在勤 李王職職員의 譴責은 <index num="2056676_0" sort="K" type="지명">朝鮮</index>總督이 行이라。 第五條, 李王職職員懲戒委員은 五人으로홈。 <index num="2056677_0" sort="K" type="지명">朝鮮</index>總督府高等官과 及李王職高等官中에셔 <index num="2056678_0" sort="K" type="지명">朝鮮</index>總督이 命이라。" 皇室令第四十號, 李王職經費의 支辦과 及李王歲費의 收支監督에 關 件。 裁可公布。<annotation type="원주">
+                <noteContent>【李王職의 經費 恩給遺族扶助料와 及退官賜金을 除 外 李王의 歲費로쎠 支辦이라。 李王歲費의 收支 <index num="2056679_0" sort="K" type="지명">朝鮮</index>總督이 監督이라。 前項의 收支의 豫算과 及決算은 <index num="2056680_0" sort="K" type="지명">朝鮮</index>總督의 審査를 經 後에 宮內大臣이 認可이라。 】</noteContent>
+              </annotation> 皇室令第四十一號, <index num="2056681_0" sort="K" type="지명">朝鮮</index>在勤宮內官恩給遺族扶助料及退官賜金所關件。 裁可公布。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312030_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>황실령은 전부 명치 44년 2월 1일부터 시행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1910-12-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="563면"/>
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">以上皇室令, 皆自<index num="2056682_0" type="연호">明治</index>四十四年二月一日施行。 宮內省令第十六號, 李王職判任官定員發表。<annotation type="원주">
+                <noteContent>【李王職屬九十人, 典祀補二十五人, 典醫補七人, 技手九人】</noteContent>
+              </annotation> 第十七號, <index num="2056683_0" ref="M_0000071" sort="K" type="이름">李太王</index> 分屬 李王職屬은 二十人, 李王職典醫補 二人, 王世子 分屬 李王職屬은 二人, 李王職典醫補 一人, 公族에게 分屬 李王職屬은 各五人으로이라。 第十八號, 判任待遇等外에 宮內職員職制中改正件發表。<annotation type="원주">
+                <noteContent>【李王職에 參奉을 置이라。 參奉은 七十五人을 判任待遇로홈。 墳塋의 管守와 及祭祀에 從事이라。 參奉의 俸給은 月俸으로야, 三十圓以下로이라。 】</noteContent>
+              </annotation> 第十九號, 宮內官朝鮮旅費規則。 竝經勅裁公布。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_10312030_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>궁내성령은 모두 명치 44년 2월 1일부터 시행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1910-12-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 6책 1권</mainTitle>
+              <page begin="13장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="563면"/>
+            </source>
+            <subjectClass>사법-법제(法制)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">以上宮內省令, 皆自<index num="2056684_0" type="연호">明治</index>四十四年二月一日施行。</paragraph>
+            <paragraph align="center">
+              <annotation type="원주">
+                <noteContent>【純宗皇帝實錄附錄卷之一終】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>

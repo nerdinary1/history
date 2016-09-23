@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wza_200">
+  <front>
+    <biblioData type="T">
+      <title>
+        <mainTitle>附錄 / 編纂委員</mainTitle>
+      </title>
+      <source>
+        <mainTitle type="원본"> 52책 48권</mainTitle>
+        <page begin="38장 A면"/>
+      </source>
+      <source>
+        <mainTitle type="국편영인본"> 3책</mainTitle>
+        <page begin="472면"/>
+      </source>
+      <subjectClass>역사-편사(編史)</subjectClass>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">
+        <index num="2049078_0" type="서명">《高宗太皇帝實錄》</index>編纂委員。 </paragraph>
+      <paragraph align="center">委員長, 李王職長官從三位勳一等法學博士, <index num="2049079_0" sort="J" type="이름">筱田治策</index>。 </paragraph>
+      <paragraph align="center">副委員長, 李王職次官從三位勳一等男爵, <index num="2049080_0" ref="M_0044209" sort="K" type="이름">李恒九</index>。 </paragraph>
+      <paragraph align="center">監修委員, <index num="2049081_0" sort="K" type="지명">京城帝國大學</index>敎授從三位勳三等, <index num="2049082_0" sort="J" type="이름">小田省吾</index>。 </paragraph>
+      <paragraph align="center">監修委員, 經學院大提學從四位勳六等, <index num="2049083_0" ref="M_0005770" sort="K" type="이름">鄭萬朝</index>。 </paragraph>
+      <paragraph align="center">監修委員, 中樞院參議正四位勳三等, <index num="2049084_0" ref="M_0002535" sort="K" type="이름">朴勝鳳</index>。 </paragraph>
+      <paragraph align="center">監修委員, 李王職囑託, <index num="2049085_0" sort="J" type="이름">成田碩內</index>。 </paragraph>
+      <paragraph align="center">監修委員, 元李王職事務官從七位, <index num="2049086_0" ref="M_0030211" sort="K" type="이름">金明秀</index>。 </paragraph>
+      <paragraph align="center">監修委員, 元宮內府秘書院丞, <index num="2049087_0" ref="M_0029193" sort="K" type="이름">徐晩淳</index>。 </paragraph>
+      <paragraph align="center">編纂委員, 中樞院參議從四位勳三等, <index num="2049088_0" ref="M_0002816" sort="K" type="이름">徐相勛</index>。 </paragraph>
+      <paragraph align="center">編纂委員, 元中樞院參議從四位勳三等, <index num="2049089_0" ref="M_0002125" sort="K" type="이름">南奎熙</index>。 </paragraph>
+      <paragraph align="center">編纂委員, 元宮內府宗正院卿, <index num="2049090_0" ref="M_0040542" sort="K" type="이름">李明翔</index>。 </paragraph>
+      <paragraph align="center">編纂委員, 元宮內府奉常司提調, <index num="2049091_0" ref="M_0055220" sort="K" type="이름">趙經九</index>。 </paragraph>
+      <paragraph align="center">編纂委員, 元<index num="2049092_0" sort="K" type="지명">朝鮮</index>總督府郡守從七位, <index num="2049093_0" ref="M_0061301" sort="K" type="이름">洪鍾瀚</index>。 </paragraph>
+      <paragraph align="center">編纂委員, 元<index num="2049094_0" sort="K" type="지명">朝鮮</index>總督府郡守正八位, <index num="2049095_0" ref="M_0030390" sort="K" type="이름">權純九</index>。 </paragraph>
+      <paragraph align="center">史料蒐集委員, 李王職事務官從五位勳五等, <index num="2049096_0" ref="M_0064398" sort="K" type="이름">朴胄彬</index>。 </paragraph>
+      <paragraph align="center">史料蒐集委員, 元李王職事務官正五位勳六等, <index num="2049097_0" ref="M_0042412" sort="K" type="이름">李源昇</index>。 </paragraph>
+      <paragraph align="center">史料蒐集委員, 元<index num="2049098_0" sort="K" type="지명">朝鮮</index>總督府編修官正五位勳六等, <index num="2049099_0" ref="M_0030391" sort="K" type="이름">李能和</index>。 </paragraph>
+      <paragraph align="center">史料蒐集委員, 元大陸通信社社長, <index num="2049100_0" sort="J" type="이름">菊池謙讓</index>。 </paragraph>
+      <paragraph align="center">庶務委員, 李王職事務官從四位勳四等, <index num="2049101_0" sort="J" type="이름">末松熊彦</index>。 </paragraph>
+      <paragraph align="center">庶務委員, 李王職事務官從四位勳五等, <index num="2049102_0" sort="J" type="이름">志賀信光</index>。 </paragraph>
+      <paragraph align="center">會計委員, 李王職事務官正六位勳五等, <index num="2049103_0" sort="J" type="이름">佐藤明道</index>。 </paragraph>
+      <paragraph align="center">監修補助委員, 元<index num="2049104_0" sort="K" type="지명">朝鮮</index>總督府郡守從五位勳六等, <index num="2049105_0" ref="M_0030363" sort="K" type="이름">金碩彬</index>。 </paragraph>
+      <paragraph align="center">監修補助委員, 元<index num="2049106_0" sort="K" type="지명">朝鮮</index>總督府理事官正七位勳八等, <index num="2049107_0" sort="J" type="이름">江原善槌</index>。 </paragraph>
+      <paragraph align="center">監修補助委員, 元宮內府秘書院丞, <index num="2049108_0" ref="M_0001767" sort="K" type="이름">金寧鎭</index>。 </paragraph>
+      <paragraph align="center">監修補助委員, 元李王職屬從七位勳八等, <index num="2049109_0" ref="M_0057478" sort="K" type="이름">崔奎煥</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元<index num="2049110_0" sort="K" type="지명">朝鮮</index>總督府道警視正七位勳七等, <index num="2049111_0" sort="J" type="이름">濱野鐘太郞</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元宮內府秘書院丞, <index num="2049112_0" ref="M_0029143" sort="K" type="이름">李秉韶</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元李王職屬, <index num="2049113_0" ref="M_0044823" sort="K" type="이름">李豐用</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元<index num="2049114_0" sort="K" type="지명">朝鮮</index>總督府郡書記, <index num="2049115_0" sort="J" type="이름">水橋復比古</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元農商工部主事, <index num="2049116_0" ref="M_0043475" sort="K" type="이름">李準聖</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元法部主事, <index num="2049117_0" ref="M_0030392" sort="K" type="이름">金炳明</index>。 </paragraph>
+      <paragraph align="center">編纂補助委員, 元宮內府水輪課主事, <index num="2049118_0" ref="M_0060899" sort="K" type="이름">洪明基</index>。 </paragraph>
+      <paragraph align="center">史料蒐集補助委員, 元<index num="2049119_0" sort="K" type="지명">京城高等商業學校</index>囑託, <index num="2049120_0" sort="J" type="이름">北島耕造</index>。</paragraph>
+    </content>
+  </text>
+</level2>
