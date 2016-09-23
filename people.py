@@ -5,6 +5,8 @@ import time
 import re
 
 client = pymongo.MongoClient('143.248.156.197')
+#client = pymongo.MongoClient('localhost')
+#driver = webdriver.Chrome(executable_path="C:\Users\DH CHOI\chromedriver")
 db=client.research
 collection= db.aksPeople
 URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MN&className=문과&isEQ=true&kristalSearchArea=P'

@@ -3,6 +3,8 @@ import pymongo
 from lxml import etree
 
 client = pymongo.MongoClient('143.248.156.197')
+#client = pymongo.MongoClient('localhost')
+
 db=client.sillok
 from lxml.cssselect import CSSSelector
 file_list=[]
