@@ -17,7 +17,7 @@ db=client.research
 collection= db.aksPeople
 
 URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MN&className=문과&isEQ=true&kristalSearchArea=P'
-#URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MN&className=무과&isEQ=true&kristalSearchArea=P'
+#URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MU&className=무과&isEQ=true&kristalSearchArea=P'
 
 def getTestList():
     url = URL
