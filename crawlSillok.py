@@ -29,8 +29,6 @@ for collectionName in collectionList:
         article = html.fromstring(page)
         paragraph =[i.strip(' ') for i in article.xpath('(//div[@class="ins_view_pd"])[1]/p[@class="paragraph"]//node()') if str(type(i)) != "<class 'lxml.html.HtmlElement'>"]
 
-        db[collectionName].update({'_id':url},{
-                        'paragraph':" ".join(paragraph)
-                                                })
+        db[collectionName].find_one_and_update({'_id':url},{"$set":{'paragraph':" ".join(paragraph)})
 
 
