@@ -1,12 +1,19 @@
-import random
 import pymongo
 import time
-
+import sys
 import requests
 from lxml import html
 basic = 'http://sillok.history.go.kr/manInfo/popManDetail.do?manId='
 session = requests.Session()
-client = pymongo.MongoClient('143.248.156.197')
+
+
+#Mac에서 실행
+if sys.platform =="darwin":
+    client = pymongo.MongoClient('143.248.156.197')
+#window에서 실행
+else:
+    client = pymongo.MongoClient('localhost')
+
 db=client.research
 sdb= client.sillok
 collection = db.sillokPeople
