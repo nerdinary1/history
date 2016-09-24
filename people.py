@@ -8,7 +8,7 @@ import re
 if sys.platform =="darwin":
     client = pymongo.MongoClient('143.248.156.197')
     driver= webdriver.Chrome(executable_path='/Users/choimarco/chromedriver')
-
+#window에서 실행
 else:
     client = pymongo.MongoClient('localhost')
     driver = webdriver.Chrome(executable_path="C:\\Users\\DH CHOI\\chromedriver")
@@ -37,12 +37,21 @@ def getInformation(passed):
     # name = re.sub(r'\([^)]*\)','',name)
     examInfo=driver.find_element_by_css_selector('h4#exmInfo').text
     examInfo=examInfo.split()
-    affillation = examInfo[0].strip('[]')
-    kingname = re.sub(r'\([^)]*\)','',examInfo[1])
-    year=int(examInfo[2].split('(')[1].replace(')',''))
-    type = re.sub(r'\([^)]*\)','',examInfo[4])
-    grade = re.sub(r'\([^)]*\)','',examInfo[5])
-    ranking = int(examInfo[6].split('(')[1].replace(")","").split("/")[0])
+    try:
+        affillation = examInfo[0].strip('[]')
+        kingname = re.sub(r'\([^)]*\)','',examInfo[1])
+        year=int(examInfo[2].split('(')[1].replace(')',''))
+        type = re.sub(r'\([^)]*\)','',examInfo[4])
+        grade = re.sub(r'\([^)]*\)','',examInfo[5])
+        ranking = int(examInfo[6].split('(')[1].replace(")","").split("/")[0])
+    #고종 이후
+    except:
+        affillation = examInfo[0].strip('[]')
+        kingname = re.sub(r'\([^)]*\)','',examInfo[1])
+        year=int(examInfo[2].split('(')[1].replace(')',''))
+        type = re.sub(r'\([^)]*\)','',examInfo[4])
+        ranking = int(examInfo[5].split('(')[1].replace(")","").split("/")[0])
+
     totalpassed = int(examInfo[6].split('(')[1].replace(")","").split("/")[1])
     personSummaryItem=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//td[@class="first"]')]
     personSummaryContent=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//tr//td[2]')]
