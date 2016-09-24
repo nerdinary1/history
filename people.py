@@ -46,6 +46,8 @@ def getInformation(passed):
         type = re.sub(r'\([^)]*\)','',examInfo[4])
         grade = re.sub(r'\([^)]*\)','',examInfo[5])
         ranking = int(examInfo[6].split('(')[1].replace(")","").split("/")[0])
+        totalpassed = int(examInfo[6].split('(')[1].replace(")","").split("/")[1])
+
     #고종 이후
     except:
         try:
@@ -54,6 +56,7 @@ def getInformation(passed):
             year=int(examInfo[2].split('(')[1].replace(')',''))
             type = re.sub(r'\([^)]*\)','',examInfo[4])
             ranking = int(examInfo[5].split('(')[1].replace(")","").split("/")[0])
+            totalpassed = int(examInfo[5].split('(')[1].replace(")","").split("/")[1])
         #문과 예외처리
         except:
             affillation = examInfo[0].strip('[]')
@@ -62,7 +65,6 @@ def getInformation(passed):
             type = re.sub(r'\([^)]*\)','',examInfo[4])
 
 
-    totalpassed = int(examInfo[6].split('(')[1].replace(")","").split("/")[1])
     personSummaryItem=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//td[@class="first"]')]
     personSummaryContent=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//tr//td[2]')]
     firstTable = [i for i in zip(personSummaryItem,personSummaryContent)]
