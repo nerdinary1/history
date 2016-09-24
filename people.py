@@ -57,12 +57,16 @@ def getInformation(passed):
             type = re.sub(r'\([^)]*\)','',examInfo[4])
             ranking = int(examInfo[5].split('(')[1].replace(")","").split("/")[0])
             totalpassed = int(examInfo[5].split('(')[1].replace(")","").split("/")[1])
+            grade =""
         #문과 예외처리
         except:
             affillation = examInfo[0].strip('[]')
             kingname = re.sub(r'\([^)]*\)','',examInfo[1])
             year=int(examInfo[2].split('(')[1].replace(')',''))
             type = re.sub(r'\([^)]*\)','',examInfo[4])
+            grade =""
+            ranking = ""
+            totalpassed=""
 
 
     personSummaryItem=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//td[@class="first"]')]
