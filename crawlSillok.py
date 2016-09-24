@@ -1,4 +1,5 @@
 import requests
+
 from lxml import html
 import random
 import pymongo
@@ -19,48 +20,17 @@ session = requests.Session()
 session.headers.update({
     'User-Agent': AGENT[random.randint(0, 3)],
 })
-kings = {
-        '태조':'kaa',
-         '정종':'kba',
-         '태종':'kca',
-         '세종':'kda',
-         '문종':'kea',
-         '단종':'kfa',
-         '세조':'kga',
-         '예종':'kha',
-         '성종':'kia',
-         '연산군':'kja',
-         '중종':'kka',
-         '인종':'kla',
-         '명종':'kma',
-         '선조':'kna',
-         '선조(수정)':'knb',
-         '광해군':'koa',
-         '광해군(정초)':'kba',
-         '인조':'kpa',
-         '효종':'kqa',
-         '현종':'kra',
-         '현종(개수)':'krb',
-         '숙종':'ksa',
-         '경종':'kta',
-         '경종(수정)':'ktb',
-         '영조':'kua',
-         '정조':'kva',
-         '순조':'kwa',
-         '헌종':'kxa',
-         '철종':'kya',
-         '고종':'kza',
-         '순종':'kzb'
-         }
-collectionList= list(kings.values())
+collectionList= db.collection_names()
 
 for collectionName in collectionList:
     urls = [i['_id'] for i in db[collectionName].find()]
     for url in urls:
         page = session.get(url).content
         article = html.fromstring(page)
-        db[collectionName].insert({'_id':url},{
-                        'paragraph':"".join([i.text for i in article.cssselect('div.ins_view_in.ins_left_in div.ins_view_pd p.paragraph')]),
+        paragraph =[i.strip(' ') for i in article.xpath('(//div[@class="ins_view_pd"])[1]/p[@class="paragraph"]//node()') if str(type(i)) != "<class 'lxml.html.HtmlElement'>"]
+
+        db[collectionName].update({'_id':url},{
+                        'paragraph':" ".join(paragraph)
                                                 })
 
 
