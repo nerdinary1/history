@@ -23,12 +23,19 @@ session.headers.update({
 collectionList= db.collection_names()
 
 for collectionName in collectionList:
+    NumofParagraphExsits = len([i for i in db[collectionName].find({"paragraph":{"$exists":0}})])
+    if NumofParagraphExsits == 0:
+        continue
+
     urls = [i['_id'] for i in db[collectionName].find()]
+
     for url in urls:
-        page = session.get(url).content
-        article = html.fromstring(page)
-        paragraph =[i.strip(' ') for i in article.xpath('(//div[@class="ins_view_pd"])[1]/p[@class="paragraph"]//node()') if str(type(i)) != "<class 'lxml.html.HtmlElement'>"]
+        try:
+            page = session.get(url).content
+            article = html.fromstring(page)
+            paragraph =[i.strip(' ') for i in article.xpath('(//div[@class="ins_view_pd"])[1]/p[@class="paragraph"]//node()') if str(type(i)) != "<class 'lxml.html.HtmlElement'>"]
 
-        db[collectionName].find_one_and_update({'_id':url},{"$set":{'paragraph':" ".join(paragraph)})
-
+            db[collectionName].find_one_and_update({'_id':url},{"$set":{'paragraph':" ".join(paragraph)}})
+        except:
+            continue
 
