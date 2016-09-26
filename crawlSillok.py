@@ -39,3 +39,10 @@ for collectionName in collectionList:
         except:
             continue
 
+
+# page = session.get("http://sillok.history.go.kr/id/kma_10505030_002").content
+# article = html.fromstring(page)
+# paragraph =[i.strip(' \n\t\r') for i in article.xpath('(//div[@class="ins_view_pd"])[1]/p[@class="paragraph"]//node()') if str(type(i)) != "<class 'lxml.html.HtmlElement'>" and str(type(i)) != "<class 'lxml.html.HtmlComment'>"]
+# paragraph = paragraph[:110]
+# a=" ".join(paragraph)
+# db['kma'].find_one_and_update({"_id":"http://sillok.history.go.kr/id/kma_10505030_002"},{"$set":{"paragraph":a}})

@@ -93,7 +93,7 @@ def main():
     collectionList=sdb.collection_names()
     # nameSet=set()
     for collection in collectionList:
-        for article in sdb[collection].find():
+        for article in sdb[collection].find({},{},no_cursor_timeout=True):
             for name in article['nameIndex']:
                 try:
                     setup(name)
