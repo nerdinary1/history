@@ -4,6 +4,7 @@ import random
 import pymongo
 import time
 import re
+import datetime
 client = pymongo.MongoClient('143.248.156.197')
 
 #client = pymongo.MongoClient('localhost')
@@ -31,5 +32,14 @@ def checkParagraph():
         print(collection,"don't have", len([i for i in db[collection].find({"paragraph":{"$exists":0}})]))
 
 #checkParagraph()
-db=client.sillok
-db['kma'].find_one_and_update({"_id":"http://sillok.history.go.kr/id/kma_10505030_002"},{"$set":{"paragraph":a}})
+# db=client.sillok
+# db['kma'].find_one_and_update({"_id":"http://sillok.history.go.kr/id/kma_10505030_002"},{"$set":{"paragraph":a}})
+
+db=client.research
+collection = db.sillokPeople
+
+while True:
+    first=collection.find().count()
+    time.sleep(3600)
+    second=collection.find().count()
+    print(datetime.datetime.now()+"collecting per 1hour "+second-first)
