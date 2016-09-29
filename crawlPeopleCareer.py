@@ -3,6 +3,8 @@ import time
 import sys
 import requests
 from lxml import html
+from kings import kings
+import datetime
 basic = 'http://sillok.history.go.kr/manInfo/popManDetail.do?manId='
 session = requests.Session()
 
@@ -17,6 +19,7 @@ else:
 db=client.research
 sdb= client.sillok
 collection = db.sillokPeople
+nameURL = db.nameURL
 
 def save(basic_category,basic_info, relative,url):
 
@@ -72,9 +75,6 @@ def setup(name):
     page = html.fromstring(session.get(url).content)
     basic_category = page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//th/text()')
     basic_info = [i.strip('\r\n\t')for i in page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//tr/td/text()')]
-    if len(basic_info[0]) == 0:
-        print('No such a person. Continue ',name)
-        return
 
     relnum = int(len(page.xpath('//table[@class="tbl_type01"]/tbody/tr/td'))/8)
     relative = []
@@ -110,6 +110,34 @@ def main():
     #     except:
     #         time.sleep(5)
 
+#new ..
+def collectPersonURL():
+    collectionList=kings
+    for collection in collectionList:
+        for article in sdb[collection].find({}, no_cursor_timeout=True):
+            for nameIndex in article['nameIndex']:
+
+                nameURL.insert(
+                    {
+                        "url":basic+nameIndex
+                    }
+                )
+
+        print(collection)
+
+def treatPersonURL():
+    nameURLUnique=db.nameURLUnique
+    before=time.time()
+    allURL=set([i['url'] for i in nameURL.find()])
+    for i in allURL:
+        nameURLUnique.insert(
+            {
+                "_id":i
+            }
+        )
+    after=time.time()
+    print(after-before)
 
 
-main()
+
+treatPersonURL()
