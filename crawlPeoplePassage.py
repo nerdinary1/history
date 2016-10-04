@@ -14,7 +14,7 @@ else:
     driver = webdriver.Chrome(executable_path="C:\\Users\\DH CHOI\\chromedriver")
 
 db=client.research
-collection= db.aksPeople
+collection= db.aksManInfo
 
 URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MN&className=문과&isEQ=true&kristalSearchArea=P'
 #URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MU&className=무과&isEQ=true&kristalSearchArea=P'
@@ -141,3 +141,4 @@ for tests in wholeTests:
 
         for passed in passeds:
             saveInformation(getInformation(passed))
+

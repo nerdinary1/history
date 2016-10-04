@@ -8,8 +8,8 @@ else:
     client = pymongo.MongoClient('localhost')
 
 db=client.research
-collection = db.sillokPeople
-peopleIndex=db.peopleIndex
+collection = db.sillokManInfo
+sillokManIndex=db.sillokManIndex
 
 for record in collection.find():
     try:
@@ -21,7 +21,6 @@ for record in collection.find():
             recordDict[recordKey] = record[recordKey]
             recordDict["_id"] = url
             recordDict["ref"] = [originId]
-
-        peopleIndex.insert(recordDict)
+        sillokManIndex.insert(recordDict)
     except :
-        peopleIndex.update({"_id":url}, {"$push":{"ref":originId}})
+        sillokManIndex.update({"_id":url}, {"$push":{"ref":originId}})

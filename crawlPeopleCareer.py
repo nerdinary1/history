@@ -14,27 +14,28 @@ if sys.platform =="darwin":
     client = pymongo.MongoClient('143.248.156.197')
 #window에서 실행
 else:
-    client = pymongo.MongoClient('localhost')
+    client = pymongo.MongoClient()
 
 db=client.research
 sdb= client.sillok
-collection = db.sillokPeople
-nameURL = db.nameURL
+sillokManInfo = db.sillokManInfo
+sillokManURL = db.sillokManURL
+sillokManURLUnique = db.sillokManURLUnique
 
 def save(basic_category,basic_info, relative,url):
 
     if len(relative) ==0:
-        collection.insert({"url":url})
+        sillokManInfo.insert({"url":url})
         for category,info in zip(basic_category,basic_info):
             if info.isdigit():
                 info = int(info)
-            collection.update_one({"url":url},{"$set":{category:info}})
+            sillokManInfo.update_one({"url":url}, {"$set":{category:info}})
 
     for i in relative:
 
         if i[3].isdigit():
 
-            collection.insert(
+            sillokManInfo.insert(
                 {
                     'url':url,
                     '왕대':i[0],
@@ -48,7 +49,7 @@ def save(basic_category,basic_info, relative,url):
                 }
             )
         else:
-            collection.insert(
+            sillokManInfo.insert(
                 {
                     'url':url,
                     '왕대':i[0],
@@ -67,11 +68,11 @@ def save(basic_category,basic_info, relative,url):
             if info.isdigit():
                 info = int(info)
 
-            collection.update_many({'url':url},{"$set":{category:info}})
+            sillokManInfo.update_many({'url':url}, {"$set":{category:info}})
 
 
 def setup(name):
-    url = basic+name
+    url = name
     page = html.fromstring(session.get(url).content)
     basic_category = page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//th/text()')
     basic_info = [i.strip('\r\n\t')for i in page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//tr/td/text()')]
@@ -85,30 +86,10 @@ def setup(name):
     save(basic_category,basic_info, relative,url)
 
 def countPerson():
-     persons = {i['url'] for i in collection.find()}
+     persons = {i['url'] for i in sillokManInfo.find()}
      print(len(persons))
 
 
-def main():
-    collectionList=sdb.collection_names()
-    # nameSet=set()
-    for collection in collectionList:
-        for article in sdb[collection].find({},no_cursor_timeout=True):
-            for name in article['nameIndex']:
-                try:
-                    setup(name)
-                except:
-                    time.sleep(5)
-        # allnames=[i['nameIndex'] for i in sdb[collection].find() if len(i['nameIndex'])>0]
-        # for names in allnames:
-        #     nameSet.update(set(names))
-    # nameList = list(nameSet)
-    #
-    # for name in nameList:
-    #     try:
-    #         setup(name)
-    #     except:
-    #         time.sleep(5)
 
 #new ..
 def collectPersonURL():
@@ -117,7 +98,7 @@ def collectPersonURL():
         for article in sdb[collection].find({}, no_cursor_timeout=True):
             for nameIndex in article['nameIndex']:
 
-                nameURL.insert(
+                sillokManURL.insert(
                     {
                         "url":basic+nameIndex
                     }
@@ -126,11 +107,11 @@ def collectPersonURL():
         print(collection)
 
 def treatPersonURL():
-    nameURLUnique=db.nameURLUnique
+    sillokManURLUnique=db.sillokManURLUnique
     before=time.time()
-    allURL=set([i['url'] for i in nameURL.find()])
+    allURL=set([i['url'] for i in sillokManURL.find()])
     for i in allURL:
-        nameURLUnique.insert(
+        sillokManURLUnique.insert(
             {
                 "_id":i
             }
@@ -139,5 +120,63 @@ def treatPersonURL():
     print(after-before)
 
 
+def missingsillokManInfo():
+    db=client.research
+    sillokManURLUnique = db.sillokManURLUnique
+    sillokManInfo=db.sillokManInfo
+    nameList = [i['_id'] for i in sillokManURLUnique.find()]
+    infoList = list(set([i['url'] for i in sillokManInfo.find()]))
+    uncrawled=[]
+    for name in nameList:
+        if name not in infoList:
+            print(name)
+            uncrawled.append(name)
+    return uncrawled
 
-treatPersonURL()
+# sillokManURLUnique = db.sillokManURLUnique
+# cnt=22752
+# l = [i["_id"] for i in sillokManURLUnique.find({})]
+# for i in l[22753::]:
+#     cnt+=1
+#     setup(i)
+#     print(cnt)
+def main(l,start,end):
+
+    cnt=0
+    #번호를 db 순서 기준으로 잡음. ex) db:26401 -> 리스트에서도 26401
+    l = l
+    for i in l[start-1:end:]:
+        try:
+            setup(i)
+            now = l.index(i)+1
+            print(now)
+        except Exception as e :
+            print(e)
+            time.sleep(10)
+            sillokManInfo.delete_many({"url":i})
+            setup(i)
+            now = l.index(i) + 1
+            print(now)
+def delete(start,end):
+    l = [i["_id"] for i in sillokManURLUnique.find({})]
+    for i in l[start - 1:end:]:
+
+            sillokManInfo.delete({"url": i})
+
+            now = l.index(i) + 1
+            print(now)
+#main(26402,30000)
+#main(30001,40000)
+#main(40001,50000)
+#main(50000,62600)
+# db=client.research
+# sillokManURLUnique = db.sillokManURLUnique
+# sillokManInfo=db.sillokManInfo
+# sillokManInfo.delete_many({"url":"http://sillok.history.go.kr/manInfo/popManDetail.do?manId=M_0005134"})
+
+# l=missingsillokManInfo()
+# print(len(l))
+# length = int(len(l)/3)
+# main(l,1,length)
+# main(l,1+length,2*length)
+# main(l,2*length, 3*length)

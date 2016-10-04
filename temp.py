@@ -52,7 +52,7 @@ def countPeople():
 
 def checkPeopleCollecting():
     db=client.research
-    collection = db.sillokPeople
+    collection = db.sillokManInfo
 
     while True:
         first=collection.find().count()
@@ -60,10 +60,120 @@ def checkPeopleCollecting():
         second=collection.find().count()
         print(str(datetime.datetime.now())+"collecting per 1hour "+str(second-first))
 
-def aksPeopleCount():
+def aksManInfoCount():
     db=client.research
-    collection = db.aksPeople
+    collection = db.aksManInfo
     print("문과 has", collection.find({"계열":"문과"}).count())
     print("무과 has", collection.find({"계열":"무과"}).count())
 
-aksPeopleCount()
+def missingsillokManInfo():
+    db=client.research
+    sillokManURLUnique = db.sillokManURLUnique
+    sillokManInfo=db.sillokManInfo
+    nameList = [i['_id'] for i in sillokManURLUnique.find()]
+    infoList = list(set([i['url'] for i in sillokManInfo.find()]))
+    uncrawled=[]
+    for name in nameList:
+        if name not in infoList:
+            print(name)
+            uncrawled.append(name)
+    print(len(uncrawled))
+
+def treatAnonymousaks():
+    db=client.research
+    aksManInfo=db.aksManInfo
+    anonymous=[i['_id'] for i in aksManInfo.find({"UCI":{"$exists":0}})]
+    print(anonymous)
+    for i in anonymous:
+        num=str(anonymous.index(i)+1)
+        aksManInfo.update_one({"_id":i},{"$set":{"UCI":"anonymous"+num}})
+
+def showSameName():
+    db=client.research
+    aksManInfo=db.aksManInfo
+    l = [(i['이름'],i['합격년도']) for i in aksManInfo.find()]
+    UCI=set(i['UCI'] for i in aksManInfo.find())
+    print(len(l))
+    print(len(UCI))
+    s=set(l)
+    s=list(s)
+    print(len(s))
+    for i in l:
+        if l.count(i) !=1:
+            print(i)
+def makeaksManIndex():
+    db=client.research
+    aksManIndex=db.aksManIndex
+    aksManInfo=db.aksManInfo
+    for i in aksManInfo.find():
+        try:
+            originId=i.pop('_id')
+            print(i)
+            i['_id']=i['UCI']
+            del i['UCI']
+            aksManIndex.insert(i)
+        except:
+            print("ss")
+            aksManIndex.update(
+                {"_id":i["_id"]},
+                {"$push":{"dup":originId}}
+            )
+
+
+def checkSameName():
+    db=client.research
+    aksManIndex=db.aksManIndex
+
+    namekingList=[(i['이름'],i['생년']) for i in aksManIndex.find()]
+    fullList=[i for i in aksManIndex.find()]
+
+    for i in fullList:
+        if namekingList.count((i['이름'],i['생년'])) >1 and i['이름'] !="■■■(■■■)":
+            print(namekingList.count((i['이름'],i['생년'])),"   ",i['이름'])
+
+def checkaksTosillok():
+    db = client.research
+    aksManIndex = db.aksManIndex
+    sillokManInfo=db.sillokManInfo
+
+def countsillokManInfo():
+    db=client.research
+    sillokManInfo = db.sillokManInfo
+    sillokManIndex=db.sillokManIndex
+    infolist=[i['url'] for i in sillokManInfo.find()]
+    indexlist=[i['_id'] for i in sillokManIndex.find()]
+    for i in indexlist:
+        if i not in infolist:
+            print(i)
+def makeNameIndex():
+    db=client.research
+    sillokManInfo=db.sillokManInfo
+    sillokManIndex=db.sillokManIndex
+    akssillokJoined=db.akssillokJoined
+    nameList= [i["_id"] for i in sillokManIndex.find()]
+    for url in nameList:
+        sillokManIndex.update_many({"_id":url}, {"$set":{"nameIndex":url[-9::]}})
+        sillokManInfo.update_many({"url": url}, {"$set": {"nameIndex": url[-9::]}})
+        akssillokJoined.update_many({"_id": url}, {"$set": {"nameIndex": url[-9::]}})
+
+def removeFakeREF():
+    db = client.research
+    sillokManInfo = db.sillokManInfo
+    sillokManIndex = db.akssillokJoined
+    akssillokJoined = db.akssillokJoined
+    suscipious=[i for i in sillokManIndex.find({"ref":{"$exists":1}}) if len(i['ref'])==1]
+    for i in suscipious:
+        l = list(i.keys())
+        if "관력" not in l:
+            sillokManIndex.update({"_id":i["_id"]}, {"$unset":{"ref":1}})
+
+
+# checkSameName()
+removeFakeREF()
+# db=client.research
+# sillokManInfo=db.sillokManInfo
+# sillokPeople=db.sillokPeople
+# maninfolist=set([i['url'] for i in sillokManInfo.find()])
+# peoplelist=set([i['url'] for i in sillokPeople.find()])
+# print(len(maninfolist))
+# print(len(peoplelist))
