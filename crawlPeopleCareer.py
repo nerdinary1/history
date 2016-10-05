@@ -18,9 +18,10 @@ else:
 
 db=client.research
 sdb= client.sillok
-sillokManInfo = db.sillokManInfo
+sillokManInfo = db.test
 sillokManURL = db.sillokManURL
 sillokManURLUnique = db.sillokManURLUnique
+
 
 def save(basic_category,basic_info, relative,url):
 
@@ -75,7 +76,7 @@ def setup(name):
     url = name
     page = html.fromstring(session.get(url).content)
     basic_category = page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//th/text()')
-    basic_info = [i.strip('\r\n\t')for i in page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//tr/td/text()')]
+    basic_info = [str(i.text).replace('None',"").strip('\r\n\t')for i in page.xpath('//table[@class="tbl_type01 tbl_view"]/tbody//tr/td')]
 
     relnum = int(len(page.xpath('//table[@class="tbl_type01"]/tbody/tr/td'))/8)
     relative = []
@@ -107,7 +108,7 @@ def collectPersonURL():
         print(collection)
 
 def treatPersonURL():
-    sillokManURLUnique=db.sillokManURLUnique
+
     before=time.time()
     allURL=set([i['url'] for i in sillokManURL.find()])
     for i in allURL:
@@ -121,9 +122,6 @@ def treatPersonURL():
 
 
 def missingsillokManInfo():
-    db=client.research
-    sillokManURLUnique = db.sillokManURLUnique
-    sillokManInfo=db.sillokManInfo
     nameList = [i['_id'] for i in sillokManURLUnique.find()]
     infoList = list(set([i['url'] for i in sillokManInfo.find()]))
     uncrawled=[]
@@ -144,7 +142,7 @@ def main(l,start,end):
 
     cnt=0
     #번호를 db 순서 기준으로 잡음. ex) db:26401 -> 리스트에서도 26401
-    l = l
+
     for i in l[start-1:end:]:
         try:
             setup(i)
@@ -165,6 +163,8 @@ def delete(start,end):
 
             now = l.index(i) + 1
             print(now)
+
+main([i['_id'] for i in sillokManURLUnique.find()], 1,3)
 #main(26402,30000)
 #main(30001,40000)
 #main(40001,50000)
