@@ -26,4 +26,4 @@ def wholeData():
             full_d=empty_d
 
             writer.writerow(full_d)
-wholeData()
+wholeData()  
