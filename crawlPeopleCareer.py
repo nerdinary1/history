@@ -18,7 +18,7 @@ else:
 
 db=client.research
 sdb= client.sillok
-sillokManInfo = db.test
+sillokManInfo = db.sillokManInfo
 sillokManURL = db.sillokManURL
 sillokManURLUnique = db.sillokManURLUnique
 
@@ -163,8 +163,13 @@ def delete(start,end):
 
             now = l.index(i) + 1
             print(now)
+l = [i['_id'] for i in sillokManURLUnique.find()]
 
-main([i['_id'] for i in sillokManURLUnique.find()], 1,3)
+# length = int(len(l)/6)
+# main(l,3*length+1,4*length)
+# main(l,4*length+1,5*length)
+main(missingsillokManInfo(),1,2)
+
 #main(26402,30000)
 #main(30001,40000)
 #main(40001,50000)
@@ -176,7 +181,4 @@ main([i['_id'] for i in sillokManURLUnique.find()], 1,3)
 
 # l=missingsillokManInfo()
 # print(len(l))
-# length = int(len(l)/3)
-# main(l,1,length)
-# main(l,1+length,2*length)
-# main(l,2*length, 3*length)
+

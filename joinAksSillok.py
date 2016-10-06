@@ -91,62 +91,59 @@ def makeakssillokJoined():
 
 
 #level4 : 이름이 같고 생년이 같지만(또는 생년이 기록되어 있지 않지만(없으면 0으로 처리)), 과거 합격 후 10년 내에 관직에 올랐던 기록이 있는 사람이 1명인 경우
-        elif sillokManInfo.find({"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gte": aksman['생년'] + 10}}).count() >= 1 :
-            ID = set(i['url'] for i in
-                     sillokManInfo.find({"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gt": aksman['생년'] + 10}}))
-            if len(ID) == 1:
-                ID=ID.pop()
-                foundsillokman = [i for i in sillokManIndex.find({"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gt": aksman['생년'] + 10}})].pop()
-                akssillokJoined.insert(aksman)
-                recordKeys = [i for i in foundsillokman.keys()]
-                recordDict = dict()
-                for recordKey in recordKeys:
-                    recordDict[recordKey] = foundsillokman[recordKey]
-                url = recordDict.pop('_id')
-                recordDict['url'] = url
-                recordKeys.append('url')
-                for recordKey in recordKeys:
-                    try:
-                        akssillokJoined.update({"_id": aksman["_id"]}, {"$set": {recordKey: recordDict[recordKey]}})
-                    except:
-                        pass
-                print("level4 ", aksman['이름'])
+        elif sillokManInfo.find({"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$lte": aksman['합격년도'] + 10}}).count() == 1 :
+
+            foundsillokman = [i for i in sillokManIndex.find({"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$lte": aksman['합격년도'] + 10}})].pop()
+            akssillokJoined.insert(aksman)
+            recordKeys = [i for i in foundsillokman.keys()]
+            recordDict = dict()
+            for recordKey in recordKeys:
+                recordDict[recordKey] = foundsillokman[recordKey]
+            url = recordDict.pop('_id')
+            recordDict['url'] = url
+            recordKeys.append('url')
+            for recordKey in recordKeys:
+                try:
+                    akssillokJoined.update({"_id": aksman["_id"]}, {"$set": {recordKey: recordDict[recordKey]}})
+                except:
+                    pass
+            print("level4 ", aksman['이름'])
 
 
 
 
 
 # level5 : 이름이 같고 생년이 같지만(또는 생년이 기록되어 있지 않지만(없으면 0으로 처리)), 과거 합격 후 10~60년 내에 관직에 올랐던 기록이 있는 사람이 1명인 경우
-            elif sillokManInfo.find(
-                    {"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gte": aksman['생년'] + 10, "$lt":aksman['생년']+60}}).count() >= 1:
-                ID = set(i['url'] for i in
-                         sillokManInfo.find({"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gte": aksman['생년'] + 10, "$lt":aksman['생년']+60}}))
-                if len(ID) == 1:
-                    ID = ID.pop()
-                    foundsillokman = [i for i in sillokManIndex.find(
-                        {"이름": aksman['이름'], '생년': aksman['생년'],
-                         "년": {"$gte": aksman['생년'] + 10, "$lt": aksman['생년'] + 60}})].pop()
-                    akssillokJoined.insert(aksman)
-                    recordKeys = [i for i in foundsillokman.keys()]
-                    recordDict = dict()
-                    for recordKey in recordKeys:
-                        recordDict[recordKey] = foundsillokman[recordKey]
-                    url = recordDict.pop('_id')
-                    recordDict['url'] = url
-                    recordKeys.append('url')
-                    for recordKey in recordKeys:
-                        try:
-                            akssillokJoined.update({"_id": aksman["_id"]}, {"$set": {recordKey: recordDict[recordKey]}})
-                        except:
-                            pass
-                    print("level5 ", aksman['이름'])
+        elif sillokManInfo.find(
+                {"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gte": aksman['합격년도'] + 10, "$lt":aksman['합격년도']+60}}).count() == 1:
+
+            try:
+                print(foundsillokman)
+                foundsillokman = [i for i in sillokManIndex.find(
+                {"이름": aksman['이름'], '생년': aksman['생년'], "년": {"$gte": aksman['합격년도'] + 10, "$lt":aksman['합격년도']+60}})].pop()
+            except:
+                print(aksman['이름'])
+            akssillokJoined.insert(aksman)
+            recordKeys = [i for i in foundsillokman.keys()]
+            recordDict = dict()
+            for recordKey in recordKeys:
+                recordDict[recordKey] = foundsillokman[recordKey]
+            url = recordDict.pop('_id')
+            recordDict['url'] = url
+            recordKeys.append('url')
+            for recordKey in recordKeys:
+                try:
+                    akssillokJoined.update({"_id": aksman["_id"]}, {"$set": {recordKey: recordDict[recordKey]}})
+                except:
+                    pass
+            print("level5 ", aksman['이름'])
 
 
 
 
 
 #level6 : 이름이 같은 인물이 여럿이지만, 나머지 인물들은 전혀 이름 외에 기록이 없는 경우
-        elif sillokManIndex.find({"이름":aksman['이름']}).count() >1:
+        elif sillokManIndex.find({"이름":aksman['이름']}).count() >1 and len([i for i in sillokManIndex.find({"이름": aksman['이름']}) if len(i.keys())>5]) <= 1:
             foundsillokman= [i for i in sillokManIndex.find({"이름": aksman['이름']}) if len(i.keys())>5]
             if len(foundsillokman) == 1:
                 foundsillokman=foundsillokman.pop()
@@ -165,10 +162,6 @@ def makeakssillokJoined():
                     except:
                         pass
                 print("level6 ", aksman['이름'])
-
-
-
-
 
         else:
 #분류 불가한 인물

@@ -26,4 +26,28 @@ def wholeData():
             full_d=empty_d
 
             writer.writerow(full_d)
-wholeData() 
+def makeCSV(collectionname):
+    db=client.research
+    collection=db[collectionname]
+    fieldnames=set()
+    for doc in collection.find():
+        fieldnames.update(set(doc.keys()))
+    fieldnames= list(fieldnames)
+
+    with open(collectionname+'.csv','w') as csvfile:
+        writer=csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        d=dict()
+        for i in fieldnames:
+            d[i]=""
+        for i in collection.find():
+            empty_d=d
+            keys=list(i.keys())
+            for key in keys:
+                if key in fieldnames:
+                    empty_d[key] = i[key]
+            full_d=empty_d
+
+            writer.writerow(full_d)
+
+makeCSV("sillokManInfo")
