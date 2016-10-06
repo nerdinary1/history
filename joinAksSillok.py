@@ -166,6 +166,7 @@ def makeakssillokJoined():
         else:
 #분류 불가한 인물
             print("level7 ", aksman['이름'])
+            db.missing.insert(aksman)
 
 
 
