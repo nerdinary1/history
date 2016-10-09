@@ -10,7 +10,8 @@ else:
 db=client.research
 collection = db.sillokManInfo
 sillokManIndex=db.sillokManIndex
-
+sillokManInfo = db.sillokManInfo
+akssillokJoined = db.akssillokJoined
 
 def removeFakeREF():
     db = client.research
@@ -23,7 +24,15 @@ def removeFakeREF():
         if "관력" not in l:
             sillokManIndex.update({"_id":i["_id"]}, {"$unset":{"ref":1}})
 
+def makeNullKey():
+    for i in sillokManIndex.find():
 
+        keys = list(i.keys())
+
+        if "생년" not in keys:
+            sillokManIndex.update({"_id":i["_id"]},{"$set":{"생년":""}})
+        if "본관" not in keys:
+            sillokManIndex.update({"_id":i["_id"]},{"$set":{"본관":""}})
 
 for record in collection.find():
     try:
@@ -31,6 +40,12 @@ for record in collection.find():
         originId=record.pop('_id')
         recordKeys=list(record.keys())
         recordDict=dict()
+        if "생년" not in recordKeys:
+            recordDict['생년'] = ''
+            recordKeys.append('생년')
+        if '본관' not in recordKeys:
+            recordDict['본관'] = ''
+            recordKeys.append('본관')
         for recordKey in recordKeys:
             recordDict[recordKey] = record[recordKey]
             recordDict["_id"] = url

@@ -10,6 +10,7 @@ if sys.platform =="darwin":
 #window에서 실행
 else:
     client = pymongo.MongoClient('localhost')
+
 db = client.research
 sillokManIndex = db.sillokManIndex
 sillokManInfo = db.sillokManInfo
@@ -163,9 +164,20 @@ def treatmissing():
 
                 pass
 
+#sillokManIndex에서 생년과 이름이 같은 사람을 merge하는 함수
 
+
+#sillokManIndex에서 생년과 이름이 같으면 동일인인지 확인하는 함수
+def checkMergeness():
+    manlist = [i for i in sillokManIndex.find()]
+    for man in manlist:
+
+        if sillokManIndex.find({"이름":man['이름'], "생년":man['생년']}).count()==2:
+            print([i['url'] for i in sillokManIndex.find({"이름":man['이름'], "생년":man['생년']})])
+
+checkMergeness()
 # makeakssillokJoined()
-againakssillokJoined()
+# againakssillokJoined()
 
 
 
