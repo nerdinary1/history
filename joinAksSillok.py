@@ -1,4 +1,4 @@
-
+from selenium import webdriver
 import random
 import pymongo
 import time
@@ -36,6 +36,7 @@ def insertDB(aksman, foundsillokman, level):
     recordKeys.append('url')
     #level을 부여
     recordDict['level'] = level
+    recordKeys.append('level')
 
     for recordKey in recordKeys:
         try:
@@ -110,18 +111,61 @@ def makeakssillokJoined():
             foundsillokman= [i for i in sillokManIndex.find({"이름": aksman['이름']}) if len(i.keys())>5].pop()
             insertDB(aksman,foundsillokman,7)
 
+
+
+
         else:
 #분류 불가한 인물
-            print([i for i in sillokManIndex.find({"이름":aksman['이름'], "생년":aksman['생년']})])
-            print(aksman['생년'])
             print(aksman['이름'])
-            print( sillokManIndex.find_one({"이름":aksman['이름'], "생년":aksman['생년']}))
-            insertDB(aksman,{"_id":""},8)
+            insertDB(aksman,{"_id":""},0)
 
 #2016-10-08메모 동명이인인데 이 필터에 통과 못한 사람들은 분류 불가로 들어온다. 이 사람들이 들어 올 수 있도록 장치를 마련해야한다.
 
+def againakssillokJoined():
+    missing = akssillokJoined.find({"level":0})
+    for aksman in missing:
+        print(aksman)
+        # level8 : 동명이인인데 나머지 한명은 이미 확인되어 있는 사람
+        if sillokManIndex.find({"이름": aksman['이름']}).count() == 2 and akssillokJoined.find(
+            {"이름": aksman['이름']}).count() == 1:
+            foundsillokman = [i for i in sillokManIndex.find({"이름": aksman['이름']}) if
+                          i['_id'] != akssillokJoined.find({'이름': aksman['이름']})].pop()
+            print(foundsillokman)
+            try:
+                insertDB(aksman, foundsillokman, 8)
+            except:
+                pass
 
-makeakssillokJoined()
+def treatmissing():
+    driver=webdriver.Chrome(executable_path="C:\\Users\\DH CHOI\\chromedriver")
+    for aksman in akssillokJoined.find({"level":0}):
+        print(aksman['이름'])
+        for i in sillokManIndex.find({"이름":aksman['이름']}):
+            driver.get(i["_id"])
+
+        sillok_url=input("sillok url? ")
+        foundsillokman= db.sillokManIndex.find_one({"_id":sillok_url})
+        recordKeys = [i for i in foundsillokman.keys()]
+        recordDict = dict()
+        for recordKey in recordKeys:
+            recordDict[recordKey] = foundsillokman[recordKey]
+        # foundsillokman의 id를 url로 넣는다.
+        url = recordDict.pop('_id')
+        recordDict['url'] = url
+        recordKeys.append('url')
+        # level을 부여
+        recordDict['level'] = 9
+        recordKeys.append('level')
+        for recordKey in recordKeys:
+            try:
+                akssillokJoined.update({"_id": aksman["_id"]}, {"$set": {recordKey: recordDict[recordKey]}})
+            except Exception as e:
+
+                pass
+
+
+# makeakssillokJoined()
+againakssillokJoined()
 
 
 
