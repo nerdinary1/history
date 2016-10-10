@@ -31,7 +31,7 @@ def makeNullKey():
         keys = list(i.keys())
 
         if "생년" not in keys:
-            sillokManIndex.update({"_id":i["_id"]},{"$set":{"생년":""}})
+            sillokManIndex.update({"_id":i["_id"]},{"$set":{"생년":0}})
         if "본관" not in keys:
             sillokManIndex.update({"_id":i["_id"]},{"$set":{"본관":""}})
 def makeIndex():
