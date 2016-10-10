@@ -173,7 +173,7 @@ def checkMergeness():
     for man in manlist:
 
         if sillokManIndex.find({"이름":man['이름'], "생년":man['생년']}).count()==2:
-            print([i['url'] for i in sillokManIndex.find({"이름":man['이름'], "생년":man['생년']})])
+            print([i['_id'] for i in sillokManIndex.find({"이름":man['이름'], "생년":man['생년']})])
 
 checkMergeness()
 # makeakssillokJoined()

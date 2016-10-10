@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e31641e-f13f-44e8-88e5-70be1d84b097" name="lab" url="http://143.248.156.197">
+        <fileTransfer host="143.248.156.197" port="21" rootFolder="/Users/DH CHOI/PycharmProjects" username="choimarco">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
