@@ -36,6 +36,7 @@ def makeNullKey():
 
 for record in collection.find():
     try:
+
         url = record.pop('url')
         originId=record.pop('_id')
         recordKeys=list(record.keys())
@@ -50,6 +51,6 @@ for record in collection.find():
             recordDict[recordKey] = record[recordKey]
             recordDict["_id"] = url
             recordDict["ref"] = [originId]
-        sillokManIndex.insert(recordDict)
+            sillokManIndex.insert(recordDict)
     except :
         sillokManIndex.update({"_id":url}, {"$push":{"ref":originId}})
