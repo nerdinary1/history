@@ -42,15 +42,15 @@ for record in collection.find():
         recordKeys=list(record.keys())
         recordDict=dict()
         if "생년" not in recordKeys:
-            recordDict['생년'] = ''
             recordKeys.append('생년')
+            recordDict['생년'] = ''
         if '본관' not in recordKeys:
-            recordDict['본관'] = ''
             recordKeys.append('본관')
+            recordDict['본관'] = ''
         for recordKey in recordKeys:
             recordDict[recordKey] = record[recordKey]
             recordDict["_id"] = url
             recordDict["ref"] = [originId]
-            sillokManIndex.insert(recordDict)
+        sillokManIndex.insert(recordDict)
     except :
         sillokManIndex.update({"_id":url}, {"$push":{"ref":originId}})
