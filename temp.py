@@ -15,7 +15,13 @@ URL = 'http://people.aks.ac.kr/front/tabCon/exm/exmView.aks?exmId=EXM_MN_6JOa_14
 #item=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[4]//h5')]
 #val=[i.text for i in driver.find_elements_by_xpath('//div[@class="content"]//h5')]
 
-
+def howlong(func):
+    def wrapper():
+        before = time.time()
+        func()
+        after = time.time()
+        print(after-before)
+    return wrapper
 
 #paragraph지우는 함수
 def deleteParagraph():
@@ -101,23 +107,7 @@ def showSameName():
     for i in l:
         if l.count(i) !=1:
             print(i)
-def makeaksManIndex():
-    db=client.research
-    aksManIndex=db.aksManIndex
-    aksManInfo=db.aksManInfo
-    for i in aksManInfo.find():
-        try:
-            originId=i.pop('_id')
-            print(i)
-            i['_id']=i['UCI']
-            del i['UCI']
-            aksManIndex.insert(i)
-        except:
-            print("ss")
-            aksManIndex.update(
-                {"_id":i["_id"]},
-                {"$push":{"dup":originId}}
-            )
+
 
 
 def checkSameName():
@@ -159,17 +149,31 @@ def makeNameIndex():
 def removeFakeREF():
     db = client.research
     sillokManInfo = db.sillokManInfo
-    sillokManIndex = db.akssillokJoined
-    akssillokJoined = db.akssillokJoined
+    sillokManIndex = db.sillokManIndex
+
+
     suscipious=[i for i in sillokManIndex.find({"ref":{"$exists":1}}) if len(i['ref'])==1]
     for i in suscipious:
         l = list(i.keys())
         if "관력" not in l:
-            sillokManIndex.update({"_id":i["_id"]}, {"$unset":{"ref":1}})
+            sillokManIndex.update({"_id":i["_id"]}, {"$set":{"ref":[]}})
+
+def findUnrevealed():
+    db=client.research
+    sdb=client.sillok
+    aksManInfo=db.aksManInfo
+    sillokManIndex=db.sillokManIndex
+    sillokManInfo=db.sillokManInfo
+    sillokIntegrated=sdb.sillokIntegrated
+    aksManIndex=db.aksManIndex
+
+    for i in sillokIntegrated.find({"nameIndex":{"$exists":1}}):
+        if "M_1142086" in i['nameIndex']:
+            print(i)
 
 
 # checkSameName()
-removeFakeREF()
+# removeFakeREF()
 # db=client.research
 # sillokManInfo=db.sillokManInfo
 # sillokPeople=db.sillokPeople
@@ -177,3 +181,52 @@ removeFakeREF()
 # peoplelist=set([i['url'] for i in sillokPeople.find()])
 # print(len(maninfolist))
 # print(len(peoplelist))
+db=client.research
+aksManInfo=db.aksManInfo
+sillokManIndex=db.sillokManIndex
+aksManIndex=db.aksManIndex
+sillokManInfo=db.sillokManInfo
+akssillokJoined=db.akssillokJoined
+# manlist = [i for i in sillokManIndex.find()]
+
+
+#
+# for man in manlist:
+#     aliases = [i for i in sillokManIndex.find({"이름":man['이름'], "생년":man['생년'], "몰년":man["몰년"]})]
+#     if len(aliases)>=2 and man['몰년']!=0:
+#         for i in aliases:
+#             print(i)
+
+
+# print(len([i for i in sillokManIndex.find() if i['생년']!=0 and i['몰년']==0]))
+# l = [i['nameIndex'] for i in sillokManInfo.find()]
+# l.sort()
+# for i in l:
+#     print(i)
+# findUnrevealed()
+
+# print(sillokManIndex.find_one({"careerYear":{"$elemMatch":{"$gte":1400, "$lte":1410}}}))
+
+
+
+# @howlong
+# def test():
+#     sum=0
+#     for i in range(1,10000000):
+#         sum+=i
+#     print(sum)
+#
+# test()
+@howlong
+def mergeHanname():
+    for i in aksManInfo.find({"한자명":{"$exists":1}}):
+        name = i['이름']
+        hanname=i['한자명']
+        aksManInfo.update({"_id":i["_id"]}, {"$set":{"이름":name+"("+hanname+")"}, "$unset":{"한자명":""}})
+
+k=set()
+for i in aksManIndex.find():
+    k.update(set(i.keys()))
+
+for i in k:
+    print(i)

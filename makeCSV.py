@@ -17,15 +17,24 @@ def wholeData():
         for i in fieldnames:
             d[i]=""
         for i in sillokFirstEmergence.find():
-            empty_d=d
-            empty_d['gap'] = int(i['실록최초등장'])-int(i['합격년도'])
+
+            d['gap'] = int(i['실록최초등장'])-int(i['합격년도'])
+
             keys=list(i.keys())
             for key in keys:
-                if key in fieldnames:
-                    empty_d[key] = i[key]
-            full_d=empty_d
 
-            writer.writerow(full_d)
+                if key in fieldnames:
+                    d[key] = i[key]
+            if d['gap'] <0 :
+                del d['gap']
+            if i['생년'] ==0:
+                del d['생년']
+            if i['졸년'] ==0:
+                del d['졸년']
+            if i['합격연령'] ==0:
+                del d['합격연령']
+
+            writer.writerow(d)
 def makeCSV(collectionname):
     db=client.research
     collection=db[collectionname]
@@ -50,4 +59,5 @@ def makeCSV(collectionname):
 
             writer.writerow(full_d)
 
-makeCSV("sillokManInfo")
+# makeCSV("akssillokJoined")
+wholeData()

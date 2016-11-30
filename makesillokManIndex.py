@@ -14,6 +14,78 @@ sillokManIndex=db.sillokManIndex
 sillokManInfo = db.sillokManInfo
 akssillokJoined = db.akssillokJoined
 
+
+
+def merge(master, slave, refpush=0):
+
+    recordKeys = [i for i in slave.keys()]
+    recordDict = dict()
+    for recordKey in recordKeys:
+        recordDict[recordKey] = slave[recordKey]
+    #foundsillokman의 id를 url로 넣는다.
+    if refpush:
+        sillokManIndex.update({"_id": master["_id"]}, {"$push": {"ref": {"$each":slave['ref']}}})
+        recordKeys.remove('ref')
+    for recordKey in recordKeys:
+        try:
+            sillokManIndex.update({"_id": master["_id"]}, {"$set": {recordKey: recordDict[recordKey]}})
+        except:
+            pass
+    sillokManIndex.delete_one({"_id":slave["_id"]})
+
+
+def mergesillokManIndex():
+    manlist = [i for i in sillokManIndex.find()]
+    for man in manlist:
+        aliases = [i for i in sillokManIndex.find({"이름":man['이름'], "생년":man['생년']})]
+        if len(aliases)==2:
+            first = aliases[0]
+            second = aliases[1]
+            #둘 다 관직에 오른 기록에 없는 경우, 첫번째 사람으로 merge
+            if len(first['ref']) ==0 and len(second['ref']) == 0:
+                merge(first, second)
+            #둘 중 한 명만 관직에 오른 기록이 있는 경우, 그 사람으로 merge
+            elif len(first['ref']) >=1 and len(second['ref']) == 0:
+                merge(first, second)
+            elif len(first['ref']) ==0 and len(second['ref']) >= 1:
+                merge(second, first)
+            #둘 다 기록이 있는 경우, 동명이인임을 표시한다
+            else:
+                d = set(['왕대','왕력','년','월','일','관력','형태','_id','ref','동명이인','몰년','nameIndex'])
+                if first['생년'] == 0 and second['생년'] ==0:
+                    d.add("생년")
+                first_keys=set(first.keys()).difference(d)
+                second_keys=set(second.keys()).difference(d)
+
+
+                if first_keys==second_keys and first_keys != set(["이름","본관", "성씨"]) and second_keys!=set(["이름","본관","성씨"]):
+
+                    cnt = 0
+                    for first_key in first_keys:
+                        try:
+                            if first[first_key] == second[first_key]:
+                                cnt+=1
+                        except:
+                            pass
+                    print(first_keys)
+                    print(len(first_keys), cnt)
+
+                    if len(first_keys) == cnt:
+                        print("merge")
+                        merge(first,second,1)
+
+
+
+
+
+                print(first['_id'],second['_id'])
+    # exceptional = [i for i in sillokManIndex.find({"이름":"윤의립(尹義立)"})]
+    # merge(exceptional[0],exceptional[1])
+    # exceptional = [i for i in sillokManIndex.find({"이름":"윤저(尹柢)"})]
+    # merge(exceptional[0],exceptional[1])
+    # exceptional = [i for i in sillokManIndex.find({"이름":"조영무(趙英茂)"})]
+    # merge(exceptional[0],exceptional[1])
+
 def removeFakeREF():
     db = client.research
     sillokManInfo = db.sillokManInfo
@@ -22,33 +94,71 @@ def removeFakeREF():
     suscipious=[i for i in sillokManIndex.find({"ref":{"$exists":1}}) if len(i['ref'])==1]
     for i in suscipious:
         l = list(i.keys())
-        if "관력" not in l:
+        if "형" not in l:
             sillokManIndex.update({"_id":i["_id"]}, {"$unset":{"ref":1}})
 
-def makeNullKey():
-    for i in sillokManIndex.find():
+def makeNameIndex():
+    db=client.research
+    sillokManInfo=db.sillokManInfo
+    sillokManIndex=db.sillokManIndex
+    akssillokJoined=db.akssillokJoined
+    nameList= [i["_id"] for i in sillokManIndex.find()]
+    for url in nameList:
+        sillokManIndex.update_many({"_id":url}, {"$set":{"nameIndex":url[-9::]}})
+    for man in db.sillokManInfo.find():
+        sillokManInfo.update_many({"url": man['url']}, {"$set": {"nameIndex": man['url'][-9::]}})
+        # akssillokJoined.update_many({"_id": url}, {"$set": {"nameIndex": url[-9::]}})
 
-        keys = list(i.keys())
 
-        if i["생년"] =="":
-            sillokManIndex.update({"_id":i["_id"]},{"$set":{"생년":0}})
-        if "본관" not in keys:
-            sillokManIndex.update({"_id":i["_id"]},{"$set":{"본관":""}})
+def addCareerGroup():
+    sillokManIndex=db.sillokManIndex
+    manlist = [i for i in sillokManIndex.find()]
+
+    for man in manlist:
+        print(man)
+        careers = set()
+        career_year= set()
+        refs = [i for i in man['ref']]
+        for ID in refs:
+            careers.add(sillokManInfo.find_one({"_id":ID})['관력'])
+            career_year.add(sillokManInfo.find_one({"_id":ID})['년'])
+        sillokManIndex.update({"_id":man['_id']},{"$set":{"career":list(careers), "careerYear":list(career_year).sort()}})
+
+
+
 def makeIndex():
     for record in collection.find():
+
+        url = record.pop('url')
+        originId=record.pop('_id')
+        recordKeys=list(record.keys())
+        recordDict=dict()
+
+        for recordKey in recordKeys:
+            recordDict[recordKey] = record[recordKey]
+            recordDict["_id"] = url
+            recordDict["ref"] = [originId]
         try:
-
-            url = record.pop('url')
-            originId=record.pop('_id')
-            recordKeys=list(record.keys())
-            recordDict=dict()
-
-            for recordKey in recordKeys:
-                recordDict[recordKey] = record[recordKey]
-                recordDict["_id"] = url
-                recordDict["ref"] = [originId]
             sillokManIndex.insert(recordDict)
         except :
             sillokManIndex.update({"_id":url}, {"$push":{"ref":originId}})
 
-makeNullKey()
+    sillokManIndex.update_many({"생년":{"$exists":0}},{"$set":{"생년":0}})
+    sillokManIndex.update_many({"몰년":{"$exists":0}},{"$set":{"몰년":int(0)}})
+    sillokManIndex.update_many({"본관":{"$exists":0}},{"$set":{"본관":""}})
+
+    removeFakeREF()
+    sillokManIndex.delete_many({"이름":""})
+
+    exceptional = [i for i in sillokManIndex.find({"이름":"조영무(趙英茂)"})]
+    merge(exceptional[0],exceptional[1])
+    addCareerGroup()
+    sillokManIndex.delete_many({"이름":""})
+    spaceman=[i for i in sillokManIndex.find() if " " in i['이름']]
+    for i in spaceman:
+        newname=i['이름'].replace(' ','')
+        sillokManIndex.update({"_id":i['_id']},{"이름":newname})
+
+
+
+# addCareerGroup()

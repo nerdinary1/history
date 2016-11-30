@@ -10,6 +10,18 @@ if sys.platform =="darwin":
 else:
     client = pymongo.MongoClient('localhost')
 
+
+def howlong(func):
+    def wrapper():
+        before = time.time()
+        func()
+        after = time.time()
+        print(after-before)
+    return wrapper
+
+
+
+@howlong
 def makeFirstEmergence():
     db=client.research
     sdb=client.sillok
@@ -21,11 +33,11 @@ def makeFirstEmergence():
     for man in akssillokJoined.find(no_cursor_timeout=True):
         #아예 실록에 나오지 않는 경우
         keys=list(man.keys())
-
+        print(keys)
         if "url" not in keys:
             firstEmergence=0
-            # sillokFirstEmergence.insert(man)
-            # sillokFirstEmergence.update({"_id": man['_id']}, {"$set": {"실록최초등장": 0}})
+            sillokFirstEmergence.insert(man)
+            sillokFirstEmergence.update({"_id": man['_id']}, {"$set": {"실록최초등장": 0}})
             print("case1", man['이름'],firstEmergence)
 
         #살면서 실록에 기록된 관직이 한 번도 없는 경우에는 처음 실록에 등장한 날짜를 insert
@@ -49,8 +61,8 @@ def makeFirstEmergence():
                 firstEmergence=records[0]['date'].split('-')[0]
 
             print("case2", man['이름'],firstEmergence)
-            #sillokFirstEmergence.insert(man)
-            #sillokFirstEmergence.update({"_id": man['_id']}, {"$set": {"실록최초등장": firstEmergence}})
+            sillokFirstEmergence.insert(man)
+            sillokFirstEmergence.update({"_id": man['_id']}, {"$set": {"실록최초등장": firstEmergence}})
 
 
 

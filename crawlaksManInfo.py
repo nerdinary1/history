@@ -14,17 +14,17 @@ else:
     driver = webdriver.Chrome(executable_path="C:\\Users\\DH CHOI\\chromedriver")
 
 db=client.research
-collection= db.aksManInfo
+aksManInfo= db.aksManInfo
 
-URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MN&className=문과&isEQ=true&kristalSearchArea=P'
-#URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MU&className=무과&isEQ=true&kristalSearchArea=P'
+# URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MN&className=문과&isEQ=true&kristalSearchArea=P'
+URL = 'http://people.aks.ac.kr/front/dirSer/exm/exmKingExmList.aks?classCode=MU&className=무과&isEQ=true&kristalSearchArea=P'
 
 def getTestList():
     url = URL
     driver.get(url)
     kings = [i.get_attribute('href') for i in driver.find_elements_by_css_selector('[headers="king_name"] a')]
     wholeTests = []
-    for king in kings:
+    for king in kings[19:21]:
         driver.get(king)
         tests = [i.get_attribute('href') for i in driver.find_elements_by_css_selector('[headers="king_name"] a')]
         wholeTests.append(tests)
@@ -39,6 +39,7 @@ def getInformation(passed):
     # name = re.sub(r'\([^)]*\)','',name)
     examInfo=driver.find_element_by_css_selector('h4#exmInfo').text
     examInfo=examInfo.split()
+
     try:
         affillation = examInfo[0].strip('[]')
         kingname = re.sub(r'\([^)]*\)','',examInfo[1])
@@ -72,11 +73,14 @@ def getInformation(passed):
     personSummaryItem=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//td[@class="first"]')]
     personSummaryContent=[i.text for i in driver.find_elements_by_xpath('//div[@id="exm"]/div[1]//tr//td[2]')]
     firstTable = [i for i in zip(personSummaryItem,personSummaryContent)]
-    return name, affillation, kingname, year, type, grade, ranking, totalpassed, firstTable
+    personCareerItem=[i.text for i in driver.find_elements_by_xpath('(//table[@class="xml_table"])[3]//td[@class="first"]')]
+    personCareerContent=[i.text for i in driver.find_elements_by_xpath('(//table[@class="xml_table"])[3]//td[2]')]
+    secondTable=[i for i in zip(personCareerItem,personCareerContent)]
+    return name, affillation, kingname, year, type, grade, ranking, totalpassed, firstTable, secondTable
 
 def saveInformation(returns):
 
-    insertresult=collection.insert({
+    insertresult=aksManInfo.insert({
         "이름":returns[0],
         "계열":returns[1],
         "왕명":returns[2],
@@ -88,45 +92,59 @@ def saveInformation(returns):
         })
 
     for i in returns[8]:
-        collection.find_one_and_update({"_id":insertresult},{"$set":{i[0]:i[1]}})
-    person = collection.find_one({"_id":insertresult})
+        i=list(i)
+        if "주1" in i[1]:
+            i[1] = i[1].replace("(주1)","")
+        if "주2" in i[1]:
+            i[1] = i[1].replace("(주2)","")
+        aksManInfo.find_one_and_update({"_id":insertresult},{"$set":{i[0]:i[1]}})
+    person = aksManInfo.find_one({"_id":insertresult})
     try:
-        birthyear = person["생년"]
+        birthyear = person["birth"]
         birthyear = int(birthyear.split()[1].split('년')[0])
-        collection.find_one_and_update({"_id":insertresult}, {"$set":{"생년":birthyear}})
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"birth":birthyear}})
     except:
-        pass
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"birth":0}})
     try:
         deathyear = person["졸년"]
         deathyear = int(deathyear.split()[1].split('년')[0])
-        collection.find_one_and_update({"_id":insertresult}, {"$set":{"졸년":deathyear}})
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"졸년":deathyear}})
     except:
-        pass
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"졸년":0}})
     try:
         hometown = person["본관"]
         hometown = re.sub(r'\([^)]*\)','',hometown)
-        collection.find_one_and_update({"_id":insertresult}, {"$set":{"본관":hometown}})
+        if hometown=="미상":
+            aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"본관":""}})
+        else:
+            aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"본관":hometown}})
     except:
-        pass
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"본관":""}})
     try:
         passage=person["합격연령"]
         passage = int(passage.replace("세",''))
-        collection.find_one_and_update({"_id":insertresult}, {"$set":{"합격연령":passage}})
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"합격연령":passage}})
     except:
-        pass
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"합격연령":0}})
     try:
         deathage=person["향년"]
         deathage = int(deathage.replace("세",''))
-        collection.find_one_and_update({"_id":insertresult}, {"$set":{"향년":deathage}})
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"향년":deathage}})
     except:
         pass
 
     try:
         habitat=person["거주지"]
         habitat =re.sub(r'\([^)]*\)','',habitat)
-        collection.find_one_and_update({"_id":insertresult}, {"$set":{"거주지":habitat}})
+        aksManInfo.find_one_and_update({"_id":insertresult}, {"$set":{"거주지":habitat}})
     except:
         pass
+
+    for i in returns[9]:
+        if i[0] =="관직":
+            aksManInfo.find_one_and_update({"_id":insertresult},{"$push":{"관직":i[1]}})
+
+
 
 wholeTests=getTestList()
 
@@ -141,4 +159,7 @@ for tests in wholeTests:
 
         for passed in passeds:
             saveInformation(getInformation(passed))
-
+anonymous=[i['_id'] for i in aksManInfo.find({"UCI":{"$exists":0}})]
+for i in anonymous:
+    num=str(anonymous.index(i)+1)
+    aksManInfo.update_one({"_id":i},{"$set":{"UCI":"anonymous"+num}})

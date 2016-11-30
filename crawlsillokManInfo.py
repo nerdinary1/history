@@ -4,7 +4,7 @@ import sys
 import requests
 from lxml import html
 from kings import kings
-import datetime
+import re
 basic = 'http://sillok.history.go.kr/manInfo/popManDetail.do?manId='
 session = requests.Session()
 
@@ -131,6 +131,7 @@ def missingsillokManInfo():
             uncrawled.append(name)
     return uncrawled
 
+
 # sillokManURLUnique = db.sillokManURLUnique
 # cnt=22752
 # l = [i["_id"] for i in sillokManURLUnique.find({})]
@@ -155,6 +156,8 @@ def main(l,start,end):
             setup(i)
             now = l.index(i) + 1
             print(now)
+
+
 def delete(start,end):
     l = [i["_id"] for i in sillokManURLUnique.find({})]
     for i in l[start - 1:end:]:
