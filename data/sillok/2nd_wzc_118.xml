@@ -1,0 +1,4729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level2 SYSTEM "history.dtd">
+<level2 id="wzc_118">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>純宗[附錄] 十八年</mainTitle>
+      </title>
+      <date>
+        <dateOccured date="1925" type="서기"/>
+        <dateOccured type="간지">乙丑</dateOccured>
+        <dateOccured type="재위연도">순종 부록 18</dateOccured>
+        <dateOccured type="개국연호"/>
+        <dateOccured type="중국연호">청 선통(宣統) 17</dateOccured>
+        <dateOccured type="단기">4258</dateOccured>
+        <dateOccured type="일본연호">대정(大正) 14</dateOccured>
+        <dateOccured type="display">일 대정(大正) 14</dateOccured>
+      </date>
+    </biblioData>
+  </front>
+  <text>
+    <content>
+      <paragraph align="center">
+        <index num="2064306_0" type="서명">《純宗實錄》</index>[附錄] 十八年 / <index num="2064307_0" sort="J" type="지명">日本</index>
+        <index num="2064308_0" type="연호">大正</index>十四年</paragraph>
+    </content>
+  </text>
+  <level3 id="wzc_118010">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11801001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 1일</dateOccured>
+            <dateOccured type="단기">4258년 1월 1일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 1일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>희정당에서 신년축하를 하러온 종척, 귀족, 이왕직 장관 이하 고등관을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">
+              <annotation type="원주">
+                <noteContent>【純宗皇帝實錄附錄卷之十六】</noteContent>
+              </annotation>
+            </paragraph>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆甲子十二月初七日】</noteContent>
+              </annotation> 召見宗戚、貴族及本職長官以下高等官于<index num="2064309_0" sort="K" type="지명">熙政堂</index>。 新年祝賀也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11801001_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>총독 관저에 가서 신년축하를 전해 주도록 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-01-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">行啓于總督官邸, 託轉奏新年祝賀。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-04L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 4일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 4일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 4일</dateOccured>
+            <dateOccured type="단기">4258년 1월 4일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 4일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>희정당에서 총독부 군 사령부 칙임관 및 문무 칙임관을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">四日。 接見總督府軍司令部親勅任官及在京文武勅任官于<index num="2064310_0" sort="K" type="지명">熙政堂</index>。 新年問候也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11801004_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>출초식을 한 경용 소방조에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-01-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">特賜金二百圓于京龍消防組。 以出初式也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-05L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 5일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 5일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 5일</dateOccured>
+            <dateOccured type="단기">4258년 1월 5일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 5일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전의 촉탁 안상호가 입진하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">五日。 典醫囑託<index num="2064311_0" ref="M_0003294" sort="K" type="이름">安商浩</index>入診。 以便度異常, 有愆候也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-06L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 6일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 6일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 6일</dateOccured>
+            <dateOccured type="단기">4258년 1월 6일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 6일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>인정전에서 종척, 귀족, 이왕직 장관 이하 고등관을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">六日。 召見宗戚、貴族及本職長官以下高等官于<index num="2064312_0" sort="K" type="지명">仁政殿</index>, 仍賜午餐。 新年宴會也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801007">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 7日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-07L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 7일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 7일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 7일</dateOccured>
+            <dateOccured type="단기">4258년 1월 7일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 7일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 7일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801007_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>모친상을 당한 이해창에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">七日。 特賜葬需金一千圓于侯爵<index num="2064313_0" ref="M_0005363" sort="K" type="이름">李海昌</index>。 以其母<index num="2064314_0" ref="M_0005334" sort="K" type="이름">貞敬夫人徐氏</index>喪也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11801007_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전의 촉탁 안상호 등이 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-01-07L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">典醫囑託<index num="2064315_0" ref="M_0003294" sort="K" type="이름">安商浩</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-13L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 13일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 13일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 13일</dateOccured>
+            <dateOccured type="단기">4258년 1월 13일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 13일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>다카마쓰노미야 노부히토친왕의 성년을 맞았기 때문에 이왕직 장관 민영기를 총독부에 보내어 천황 부처에게 축사를 전해 올리도록 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十三日。 遣本職長官男爵<index num="2064316_0" ref="M_0062757" sort="K" type="이름">閔泳綺</index>于總督府, 以<index num="2064317_0" sort="J" type="지명">高松宮</index>
+              <index num="2064318_0" sort="J" type="이름">宣仁親王</index>成年, 託轉奏祝詞于天皇、皇后兩陛下。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-16L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 16일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 16일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 16일</dateOccured>
+            <dateOccured type="단기">4258년 1월 16일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 16일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전의 촉탁 안상호 등이 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十六日。 典醫囑託<index num="2064319_0" ref="M_0003294" sort="K" type="이름">安商浩</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 17일</dateOccured>
+            <dateOccured type="단기">4258년 1월 17일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 17일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>시 종무관 육군 소장 핫토리 마사히코를 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 接見侍從武官陸軍少將<index num="2064320_0" sort="J" type="이름">服部眞彦</index>, 仍賜物品。 以奉承勅命, 慰問于國境警備軍隊之路, 歷入<index num="2064321_0" sort="K" type="지명">京城</index>, 謁見後, 仍獻上菓子二箱也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-22L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 22일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 22일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 22일</dateOccured>
+            <dateOccured type="단기">4258년 1월 22일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 22일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>촉탁 의사 이와부치 도모지 등이 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十二日。 囑託醫<index num="2064322_0" sort="J" type="이름">岩淵友治</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801023">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 23日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-23L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 23일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 23일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 23일</dateOccured>
+            <dateOccured type="단기">4258년 1월 23일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 23일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 23일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전의 촉탁 안상호가 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十三日。 典醫囑託<index num="2064323_0" ref="M_0003294" sort="K" type="이름">安商浩</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 25일</dateOccured>
+            <dateOccured type="단기">4258년 1월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>자녀가 왕의 서훈을 받았기 때문에 후시미노미야 히즈야스왕에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 發祝電于<index num="2064324_0" sort="J" type="지명">伏見宮</index>
+              <index num="2064325_0" sort="J" type="이름">博恭王</index>。 以<index num="2064326_0" sort="J" type="이름">知子女王</index>敍勳也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11801025_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전의 촉탁 안상호 등이 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-01-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">典醫囑託<index num="2064327_0" ref="M_0003294" sort="K" type="이름">安商浩</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11801026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 1月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-01-26L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 1월 26일</dateOccured>
+            <dateOccured type="개국연호"> 년 1월 26일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 1월 26일</dateOccured>
+            <dateOccured type="단기">4258년 1월 26일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 1월 26일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 1월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11801026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>촉탁 의사 이와부치 도모지 등이 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-01-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十六日。 囑託醫<index num="2064328_0" sort="J" type="이름">岩淵友治</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118020">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11802002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-02L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 2일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 2일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 2일</dateOccured>
+            <dateOccured type="단기">4258년 2월 2일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 2일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>백작 송병준의 상에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二日。<annotation type="원주">
+                <noteContent>【陰曆乙丑正月初十日】</noteContent>
+              </annotation> 特賜金七百圓于伯爵<index num="2064329_0" ref="M_0002985" sort="K" type="이름">宋秉畯</index>喪。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11802002_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>촉탁 의사 이와부치 도모지 등이 들어와 진료하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-02-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">囑託醫<index num="2064330_0" sort="J" type="이름">岩淵友治</index>等入診。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11802006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-06L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 6일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 6일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 6일</dateOccured>
+            <dateOccured type="단기">4258년 2월 6일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 6일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 정무 총감 아리요시 추이치에게 나전으로 만든 기념품을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">六日。 賜前政務總監<index num="2064331_0" sort="J" type="이름">有吉忠一</index>螺鈿製記念品。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11802006_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕세자가 소진의 어용저를 예방하여 천황을 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-02-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">王世子詣<index num="2064332_0" sort="J" type="지명">沼津</index>御用邸, 謁見于天皇陛下, 仍祗受御肴一折之意, 以電報稟達。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11802006_003">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>촉탁 의사 이와부치 도모지와 어용괘 지부의웅, 전의 촉탁 안상호 등에게 물품을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">003</docNo>
+            <date>
+              <dateOccured date="1925-02-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">特賜囑託醫<index num="2064333_0" sort="J" type="이름">岩淵友治</index>金製物品, 御用掛<index num="2064334_0" sort="J" type="이름">池部義雄</index>、典醫囑託<index num="2064335_0" ref="M_0003294" sort="K" type="이름">安商浩</index>、典醫<index num="2064336_0" ref="M_0066400" sort="K" type="이름">徐丙孝</index>等賞金, 有差。 以患候中勤勞也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11802011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-11L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 11일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 11일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 11일</dateOccured>
+            <dateOccured type="단기">4258년 2월 11일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 11일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이왕직 장관 민영기를 총독 관저에 보내어 기원절 축하를 대신 전해줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十一日。 遣本職長官男爵<index num="2064337_0" ref="M_0062757" sort="K" type="이름">閔泳綺</index>于總督官邸。 託轉奏紀元節祝賀。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11802013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-13L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 13일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 13일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 13일</dateOccured>
+            <dateOccured type="단기">4258년 2월 13일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 13일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>윤일구 처의 상제에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十三日。 特賜金一百圓于<index num="2064338_0" ref="M_0030646" sort="K" type="이름">尹一求</index>
+              <annotation type="원주">
+                <noteContent>【王妃近族】</noteContent>
+              </annotation>妻祥祭。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11802018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-18L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 18일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 18일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 18일</dateOccured>
+            <dateOccured type="단기">4258년 2월 18일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 18일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>육군 기념제로 용산의 해행사에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十八日。 賜金二百圓于龍山偕行社。 以陸軍記念祭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11802024">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 24日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-24L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 24일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 24일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 24일</dateOccured>
+            <dateOccured type="단기">4258년 2월 24일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 24일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 24일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802024_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>귀인 양씨의 상례에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-24L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十四日。 賜葬需金五百圓于貴人<annotation type="원주">
+                <noteContent>【<index num="2064339_0" ref="M_0060690" sort="K" type="이름">惠安堂</index>】</noteContent>
+              </annotation>
+              <index num="2064340_0" ref="M_0060690" sort="K" type="이름">梁氏</index>喪。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11802026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 2月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-02-26L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 2월 26일</dateOccured>
+            <dateOccured type="개국연호"> 년 2월 26일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 2월 26일</dateOccured>
+            <dateOccured type="단기">4258년 2월 26일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 2월 26일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 2월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11802026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>송이현 처의 상례에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-02-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十六日。 特賜金一百五十圓于<index num="2064341_0" ref="M_0030187" sort="K" type="이름">宋履鉉</index>
+              <annotation type="원주">
+                <noteContent>【<index num="2064342_0" ref="M_0006771" sort="K" type="이름">純明皇后</index>外戚】</noteContent>
+              </annotation> 妻喪。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118030">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 三月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 三月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11803003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 3月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-03-03L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 3월 3일</dateOccured>
+            <dateOccured type="개국연호"> 년 3월 3일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 3월 3일</dateOccured>
+            <dateOccured type="단기">4258년 3월 3일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 3월 3일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 3월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11803003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>교사 증축을 위해 고양군 둑도면 보통학교에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-03-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>교육-인문교육(人文敎育)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三日。<annotation type="원주">
+                <noteContent>【陰曆乙丑二月初九日】</noteContent>
+              </annotation> 特賜金五十圓于<index num="2064343_0" sort="K" type="지명">高陽郡</index>
+              <index num="2064344_0" sort="K" type="지명">纛島面普通學校</index>。 以校舍增築也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11803006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 3月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-03-06L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 3월 6일</dateOccured>
+            <dateOccured type="개국연호"> 년 3월 6일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 3월 6일</dateOccured>
+            <dateOccured type="단기">4258년 3월 6일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 3월 6일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 3월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11803006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>아들 이해충의 상제에 이지용에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-03-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">六日。 特賜金五十圓于伯爵<index num="2064345_0" ref="M_0005211" sort="K" type="이름">李址鎔</index>。 以其子<index num="2064346_0" ref="M_0044236" sort="K" type="이름">海忠</index>祥祭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11803011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 3月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-03-11L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 3월 11일</dateOccured>
+            <dateOccured type="개국연호"> 년 3월 11일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 3월 11일</dateOccured>
+            <dateOccured type="단기">4258년 3월 11일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 3월 11일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 3월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11803011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>휴직 명령을 받은 이왕직 사무관 이마무라, 니키 요시이에와 찬시 김관호, 전사 윤세용 등에게 인정전에서 오찬을 베풀다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-03-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-임면(任免)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十一日。 本職事務官<index num="2064347_0" sort="J" type="이름">今村鞆</index>·<index num="2064348_0" sort="J" type="이름">仁木義家</index>、贊侍<index num="2064349_0" ref="M_0030557" sort="K" type="이름">金觀鎬</index>、典祀<index num="2064350_0" ref="M_0052626" sort="K" type="이름">尹世鏞</index>、典醫<index num="2064351_0" ref="M_0066400" sort="K" type="이름">徐丙孝</index>、技師<index num="2064352_0" ref="M_0030563" sort="K" type="이름">姜聲國</index>, 竝退職被命。 事務官<index num="2064353_0" ref="M_0055430" sort="K" type="이름">趙東源</index>·<index num="2064354_0" ref="M_0042412" sort="K" type="이름">李源昇</index>、典祀<index num="2064355_0" ref="M_0005770" sort="K" type="이름">鄭萬朝</index>, 竝休職被命。 仍賜午餐于<index num="2064356_0" sort="K" type="지명">仁政殿</index>東行閣, 又賜記念品。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11803024">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 3月 24日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-03-24L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 3월 24일</dateOccured>
+            <dateOccured type="개국연호"> 년 3월 24일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 3월 24일</dateOccured>
+            <dateOccured type="단기">4258년 3월 24일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 3월 24일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 3월 24일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11803024_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕혜 옹주에게 동경에 유학하도록 명령하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-03-24L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十四日。 命<index num="2064357_0" ref="M_0036481" sort="K" type="이름">德惠翁主</index>留學于<index num="2064358_0" sort="J" type="지명">東京</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11803024_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>카라요우노미야 박충왕의 일년제에 물품을 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-03-24L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">命供榊一對、御鏡餠一臺于<index num="2064359_0" sort="J" type="지명">華頂宮</index>
+              <index num="2064360_0" sort="J" type="이름">博忠王</index>一年祭。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11803025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 3月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-03-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 3월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 3월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 3월 25일</dateOccured>
+            <dateOccured type="단기">4258년 3월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 3월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 3월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11803025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>탄신일을 축하하기 위해 종척, 귀족, 이왕직 고등관 이하 고등관을 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-03-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="1장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 召見宗戚、貴族及本職長官以下高等官, 賜午餐陪食于<index num="2064361_0" sort="K" type="지명">仁政殿</index>。 以餘興, 觀舞童呈才。 仍接見軍司令官<index num="2064362_0" sort="J" type="이름">鈴木莊六</index>、師團長<index num="2064363_0" sort="J" type="이름">引田乾作</index>、同副官及總督府各局部長等, 設晩餐陪食。 竝以誕辰祝賀也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11803027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 3月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-03-27L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 3월 27일</dateOccured>
+            <dateOccured type="개국연호"> 년 3월 27일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 3월 27일</dateOccured>
+            <dateOccured type="단기">4258년 3월 27일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 3월 27일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 3월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11803027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>덕혜 옹주가 재학할 때 근로했기 때문에 일출 심상소학교 교원에게 기념품을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-03-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>교육-인문교육(人文敎育)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十七日。 特賜記念品于<index num="2064364_0" sort="K" type="지명">日出尋常小學校</index>職員, 有差。 以<index num="2064365_0" ref="M_0036481" sort="K" type="이름">德惠翁主</index>在學時勤勞也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118040">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 四月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 四月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11804010">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 10日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-10L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 10일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 10일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 10일</dateOccured>
+            <dateOccured type="단기">4258년 4월 10일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 10일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 10일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804010_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>자작으로 승진한 총독 사이토 마코토에게 술을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十日。<annotation type="원주">
+                <noteContent>【陰曆乙丑三月十九日】</noteContent>
+              </annotation> 特賜酒二樽于總督子爵<index num="2064366_0" sort="J" type="이름">齋藤實</index>。 以祝陞進子爵也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11804010_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경기도 의용 소방대에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-04-10L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>군사-금화(禁火)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">賜<index num="2064367_0" sort="K" type="지명">京畿道</index>消防所義勇消防隊金各五十圓。 以本職廳舍隅煤捨場失火時, 盡力鎭火也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11804017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 17일</dateOccured>
+            <dateOccured type="단기">4258년 4월 17일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 17일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이왕직 장관 민영기를 인천항에 보내어 아사아키라왕을 영접하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 遣本職長官男爵<index num="2064368_0" ref="M_0062757" sort="K" type="이름">閔泳綺</index>。 迎<index num="2064369_0" sort="J" type="이름">朝融王</index>于<index num="2064370_0" sort="K" type="지명">仁川港</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11804018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-18L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 18일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 18일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 18일</dateOccured>
+            <dateOccured type="단기">4258년 4월 18일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 18일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>인정전에 나가 아사아키라왕과 회견을 가지다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十八日。 臨于<index num="2064371_0" sort="K" type="지명">仁政殿</index>, 會見<index num="2064372_0" sort="J" type="이름">朝融王</index>, 仍設午餐。 總督軍司令官以下及<index num="2064373_0" ref="M_0000430" sort="K" type="이름">李堈公</index>、貴族、本職長官以下高等官陪食。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11804020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-20L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 20일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 20일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 20일</dateOccured>
+            <dateOccured type="단기">4258년 4월 20일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 20일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감 시모오카 다다하루가 과일을 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>농업-과수원예(果樹園藝)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十日。 政務總監<index num="2064374_0" sort="J" type="이름">下岡忠治</index>獻上果品數重。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11804021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-21L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 21일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 21일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 21일</dateOccured>
+            <dateOccured type="단기">4258년 4월 21일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 21일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕세자가 근위대 직무를 수행하기 위해 경도, 나양, 화가산 등지에 출장가다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十一日。 王世子以近衛隊職務, 出張于<index num="2064375_0" sort="J" type="지명">京都</index>、<index num="2064376_0" sort="J" type="지명">柰良</index>、<index num="2064377_0" sort="J" type="지명">和歌山</index>、<index num="2064378_0" sort="J" type="지명">兵庫</index>、<index num="2064379_0" sort="J" type="지명">德島</index>、<index num="2064380_0" sort="J" type="지명">香川</index>、<index num="2064381_0" sort="J" type="지명">愛媛</index>、<index num="2064382_0" sort="J" type="지명">岡山縣</index>等地, 本日還于<index num="2064383_0" sort="J" type="지명">東京</index>別邸。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11804025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 25일</dateOccured>
+            <dateOccured type="단기">4258년 4월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 정무 총감 미즈노 렌타로가 칠보로 만든 연초 상자를 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>농업-특용작물(特用作物)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 前政務總監<index num="2064384_0" sort="J" type="이름">水野鍊太郞</index>獻上七寶製煙草入一箇。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11804028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 4月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-04-28L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 4월 28일</dateOccured>
+            <dateOccured type="개국연호"> 년 4월 28일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 4월 28일</dateOccured>
+            <dateOccured type="단기">4258년 4월 28일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 4월 28일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 4월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11804028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>모친상을 당한 총독부 통역관 다나카 도쿠타로에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-04-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十八日。 特賜金五十圓于總督府通譯官<index num="2064385_0" sort="J" type="이름">田中德太郞</index>。 以其母喪也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118050">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 五月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 五月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11805001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 1일</dateOccured>
+            <dateOccured type="단기">4258년 5월 1일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 1일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이강 공과 이왕직 장관 민영기에게 명하여 동경에 가서 천황 부처의 은혼식에 참석하라고 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆乙丑四月初九日】</noteContent>
+              </annotation> 命<index num="2064386_0" ref="M_0000430" sort="K" type="이름">李堈</index>公、本職長官男爵<index num="2064387_0" ref="M_0062757" sort="K" type="이름">閔泳綺</index>, 前往<index num="2064388_0" sort="J" type="지명">東京</index>, 參列於天皇、皇后兩陛下銀婚式御祝典。<annotation type="원주">
+                <noteContent>【御結婚滿二十五年】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-04L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 4일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 4일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 4일</dateOccured>
+            <dateOccured type="단기">4258년 5월 4일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 4일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>귀족 대표로 사무관 이항구에게 천황의 은혼식에 참석하러 동경에 갈 것을 명하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">四日。 特賜金二百圓于事務官男爵<index num="2064389_0" ref="M_0044209" sort="K" type="이름">李恒九</index>。 以貴族代表, 爲參銀婚式, 往<index num="2064390_0" sort="J" type="지명">東京</index>也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-05L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 5일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 5일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 5일</dateOccured>
+            <dateOccured type="단기">4258년 5월 5일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 5일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 한창수를 총독부에 보내어 천황 부처가 소진에서 돌아온 것에 대해 안부를 전해줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">五日。 遣贊侍男爵<index num="2064391_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>于總督府, 託轉奏問候。 以天皇、皇后兩陛下自<index num="2064392_0" sort="J" type="지명">沼津</index>還幸也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-06L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 6일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 6일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 6일</dateOccured>
+            <dateOccured type="단기">4258년 5월 6일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 6일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>모친인 정경 부인 서씨의 상제에 후작 이달용에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">六日。 特賜金一百圓于侯爵<index num="2064393_0" ref="M_0040137" sort="K" type="이름">李達鎔</index>。 以其母<index num="2064394_0" sort="K" type="이름">貞敬夫人徐氏</index>祥祭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-08L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 8일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 8일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 8일</dateOccured>
+            <dateOccured type="단기">4258년 5월 8일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 8일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>부무관 이병규를 경성 신사에 보내어 천황 부처의 은혼식을 봉축하는 제에 참석하라고 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">八日。 遣附武官<index num="2064395_0" ref="M_0040764" sort="K" type="이름">李秉規</index>于<index num="2064396_0" sort="K" type="지명">京城神社</index>, 行天皇、皇后兩陛下銀婚式奉祝祭時參列, 仍供幣帛料。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-13L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 13일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 13일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 13일</dateOccured>
+            <dateOccured type="단기">4258년 5월 13일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 13일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>중위로 승진한 치치부미야 야스히토친왕에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十三日。 發祝電于<index num="2064397_0" sort="J" type="지명">秩父宮</index>
+              <index num="2064398_0" sort="J" type="이름">雍仁親王</index>。 以陞進中尉也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-18L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 18일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 18일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 18일</dateOccured>
+            <dateOccured type="단기">4258년 5월 18일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 18일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>구라파를 유람한 치치부미야 야스히토친왕에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十八日。 發祝電于<index num="2064399_0" sort="J" type="지명">秩父宮</index>
+              <index num="2064400_0" sort="J" type="이름">雍仁親王</index>。 以<index num="2064401_0" sort="W" type="지명">歐羅巴</index>遊覽也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11805018_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>가야노미야 호헌왕이 만선로를 시찰하기 위해 경성을 지나니 백축면을 증정하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-05-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>의생활-장신구(裝身具)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">
+              <index num="2064402_0" sort="J" type="지명">賀陽宮</index>
+              <index num="2064403_0" sort="J" type="이름">恒憲王</index>視察<index num="2064404_0" sort="K" type="지명">滿</index>、<index num="2064405_0" sort="K" type="지명">鮮</index>路由<index num="2064406_0" sort="K" type="지명">京城</index>, 贈進白縮緬二疋。 仍回謝, 贈送螺鈿製物品數種。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11805020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 5月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-05-20L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 5월 20일</dateOccured>
+            <dateOccured type="개국연호"> 년 5월 20일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 5월 20일</dateOccured>
+            <dateOccured type="단기">4258년 5월 20일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 5월 20일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 5월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11805020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>의릉의 도로를 닦은 고양군 숭인면에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-05-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>건설-토목(土木)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>왕실-종사(宗社)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十日。 特賜金一百圓于<index num="2064407_0" sort="K" type="지명">高陽郡</index>
+              <index num="2064408_0" sort="K" type="지명">崇仁面</index>。 以<index num="2064409_0" sort="K" type="지명">懿陵</index>道路修治勤勞也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118060">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 六月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 六月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11806002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 6月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-06-02L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 6월 2일</dateOccured>
+            <dateOccured type="개국연호"> 년 6월 2일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 6월 2일</dateOccured>
+            <dateOccured type="단기">4258년 6월 2일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 6월 2일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 6월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11806002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>창덕궁 경찰서 격검회에 청주와 금제 와 도기로 만든 술잔을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-06-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>의생활-장신구(裝身具)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二日。<annotation type="원주">
+                <noteContent>【陰曆乙丑閏四月十一日】</noteContent>
+              </annotation> 特賜淸酒半樽、銀製及陶器酒杯于<index num="2064410_0" sort="K" type="지명">昌德宮</index>警察署擊劍會。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11806005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 6月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-06-05L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 6월 5일</dateOccured>
+            <dateOccured type="개국연호"> 년 6월 5일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 6월 5일</dateOccured>
+            <dateOccured type="단기">4258년 6월 5일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 6월 5일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 6월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11806005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>딸의 혼인을 치르는 윤백영에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-06-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">五日。 特賜金一百圓于<index num="2064411_0" ref="M_0052520" sort="K" type="이름">尹百榮</index>
+              <annotation type="원주">
+                <noteContent>【王妃近族】</noteContent>
+              </annotation>。 以其女婚也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11806017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 6月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-06-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 6월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 6월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 6월 17일</dateOccured>
+            <dateOccured type="단기">4258년 6월 17일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 6월 17일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 6월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11806017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>딸의 혼인을 치르는 전 군수 노병목에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-06-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 特賜金五十圓于前郡守<index num="2064412_0" ref="M_0037564" sort="K" type="이름">盧炳穆</index>
+              <annotation type="원주">
+                <noteContent>【<index num="2064413_0" ref="M_0005333" sort="K" type="이름">純穆大院妃</index>姨姪】</noteContent>
+              </annotation>, 以其女婚也; 又賜前內務局長<index num="2064414_0" sort="J" type="이름">大塜常三郞</index>靑銅花甁, 以記念也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11806022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 6月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-06-22L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 6월 22일</dateOccured>
+            <dateOccured type="개국연호"> 년 6월 22일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 6월 22일</dateOccured>
+            <dateOccured type="단기">4258년 6월 22일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 6월 22일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 6월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11806022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>천황 부처의 은혼식을 주관한 축전에 물품을 진헌하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-06-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十二日。 進獻置物<annotation type="원주">
+                <noteContent>【代金一千圓】</noteContent>
+              </annotation>一箇于天皇、皇后兩陛下銀婚式御祝典。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11806022_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>백중날에 촉탁의 이와부치 도모지, 시라이 시나코에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-06-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">賜金六百圓于囑託醫<index num="2064415_0" sort="J" type="이름">岩淵友治</index>, 三百圓于<index num="2064416_0" sort="J" type="이름">白井品子</index>, 以中元特給也; 又賜金一百圓于<index num="2064417_0" sort="K" type="지명">楊州郡</index>
+              <index num="2064418_0" sort="K" type="지명">渼金面</index>, 以<index num="2064419_0" sort="K" type="지명">洪陵</index>附近消防組設立也; 又賜銀製記念品于前宮內大臣<index num="2064420_0" sort="J" type="이름">牧野伸顯</index>。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11806025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 6月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-06-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 6월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 6월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 6월 25일</dateOccured>
+            <dateOccured type="단기">4258년 6월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 6월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 6월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11806025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 한창수를 총독부에 보내어 지구절 축하를 전해줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-06-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 遣贊侍男爵<index num="2064421_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>于總督府, 託轉奏地久節祝賀。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11806027">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 6月 27日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-06-27L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 6월 27일</dateOccured>
+            <dateOccured type="개국연호"> 년 6월 27일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 6월 27일</dateOccured>
+            <dateOccured type="단기">4258년 6월 27일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 6월 27일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 6월 27일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11806027_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>동양척식회사 총재 와타나베 가쓰사부로가 물품을 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-06-27L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="2장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="632면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>의생활-장신구(裝身具)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十七日。 東洋拓殖會社總裁<index num="2064422_0" sort="J" type="이름">渡邊勝三郞</index>獻上金蒔繪小型二重箱一箇。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118070">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 七月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 七月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11807001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 1일</dateOccured>
+            <dateOccured type="단기">4258년 7월 1일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 1일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 비서승 김두한 아내의 상제에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆乙丑五月十一日】</noteContent>
+              </annotation> 特賜金一百五十圓于前祕書丞<index num="2064423_0" ref="M_0030154" sort="K" type="이름">金斗漢</index>。 以其妻<index num="2064424_0" ref="M_0030154" sort="K" type="이름">淑夫人李氏</index>
+              <annotation type="원주">
+                <noteContent>【<index num="2064425_0" ref="M_0000815" sort="K" type="이름">李熹</index>公第二女】</noteContent>
+              </annotation>祥祭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11807003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-03L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 3일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 3일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 3일</dateOccured>
+            <dateOccured type="단기">4258년 7월 3일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 3일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>남작 민철훈의 상에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三日。 特賜金五十圓于男爵<index num="2064426_0" ref="M_0002362" sort="K" type="이름">閔哲勳</index>喪。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11807015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-15L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 15일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 15일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 15일</dateOccured>
+            <dateOccured type="단기">4258년 7월 15일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 15일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>아편 중독자의 치료소를 설치한 경기도 위생과에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>의약-의학(醫學)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十五日。 特賜金一百五十圓于<index num="2064427_0" sort="K" type="지명">京畿道</index>衛生課。 以鴉片中毒者治療所, 設置于該課也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11807017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 17일</dateOccured>
+            <dateOccured type="단기">4258년 7월 17일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 17일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>네덜란드 해아에서 개최하는 만국공업소 유권보호 동맹조약 개정회의 준비를 위해 왕공가 문장을 궁내성에 베껴 보내도록 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>외교-구미(歐美)</subjectClass>
+            <subjectClass>예술-미술(美術)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 命王公家紋章寫送于宮內省。 以<index num="2064428_0" sort="W" type="지명">和籣</index>
+              <index num="2064429_0" sort="W" type="지명">海牙</index>開催萬國工業所有權保護同盟條約改正會議準備上必要也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11807020">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 20日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-20L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 20일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 20일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 20일</dateOccured>
+            <dateOccured type="단기">4258년 7월 20일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 20일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 20일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807020_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>수해 구제를 위해 경성부에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-20L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>구휼(救恤)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>과학-천기(天氣)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十日。 特賜金一千圓于<index num="2064430_0" sort="K" type="지명">京城府</index>。 以水害救濟也。<annotation type="원주">
+                <noteContent>【自十五日以來, 豪雨連仍, 未曾有之大洪水, 漲溢於新舊<index num="2064431_0" sort="K" type="지명">龍山</index>、<index num="2064432_0" sort="K" type="지명">麻浦</index>、<index num="2064433_0" sort="K" type="지명">纛島</index>、<index num="2064434_0" sort="K" type="지명">往十里</index>、<index num="2064435_0" sort="K" type="지명">淸涼里</index>等地, 人畜家屋被害甚多。 <index num="2064436_0" sort="K" type="지명">漢江</index>增水爲四十二尺。】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11807025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 25일</dateOccured>
+            <dateOccured type="단기">4258년 7월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>수해로 조선에 파견된 관동청 장관 대리 비서관 다나카 나오미치가 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 <index num="2064437_0" sort="K" type="지명">關東</index>廳長官代理祕書官<index num="2064438_0" sort="J" type="이름">田中直通</index>謁見。 因水害, 派遣來<index num="2064439_0" sort="K" type="지명">鮮</index>也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11807025_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>관동청 장관 고다마 히데오가 엽권 연초를 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-07-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>농업-특용작물(特用作物)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">
+              <index num="2064440_0" sort="K" type="지명">關東</index>廳長官伯爵<index num="2064441_0" sort="J" type="이름">兒玉秀雄</index>獻上葉卷煙草五箱。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11807028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 7月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-07-28L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 7월 28일</dateOccured>
+            <dateOccured type="개국연호"> 년 7월 28일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 7월 28일</dateOccured>
+            <dateOccured type="단기">4258년 7월 28일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 7월 28일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 7월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11807028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>수해로 경성에 온 시종 가이에다 고키치를 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-07-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十八日。 接見侍從子爵<index num="2064442_0" sort="J" type="이름">海江田幸吉</index>, 仍賜午餐及銀製物品。 以洪水被害民慰問勅使來到<index num="2064443_0" sort="K" type="지명">京城</index>也。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11807028_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>수해 구제를 위한 의연금을 모집하는 애국부인회에 왕비가 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-07-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>구휼(救恤)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>향촌-사회조직(社會組織)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">王妃賜金一百五十圓于愛國婦人會。 因該會募集水害救濟義捐金也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118080">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 八月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 八月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11808001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 1일</dateOccured>
+            <dateOccured type="단기">4258년 8월 1일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 1일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>경성부에서 설립한 각 지방 수해이재민을 구제하기 위한 모임에 돈을 주다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>구휼(救恤)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆乙丑六月十二日】</noteContent>
+              </annotation>
+              <index num="2064444_0" sort="K" type="지명">京城府</index>爲各地方水害罹災民救濟設會, 特賜金三千圓。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11808003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-03L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 3일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 3일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 3일</dateOccured>
+            <dateOccured type="단기">4258년 8월 3일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 3일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>인정전에서 박신왕과 회견하고 만찬을 베풀다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三日。 會見<index num="2064445_0" sort="J" type="이름">博信王</index>于<index num="2064446_0" sort="K" type="지명">仁政殿</index>, 設晩餐。 總督子爵<index num="2064447_0" sort="J" type="이름">齋藤實</index>、政務總監<index num="2064448_0" sort="J" type="이름">下岡忠治</index>及貴族、本職長官以下陪食。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11808008">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 8日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-08L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 8일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 8일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 8일</dateOccured>
+            <dateOccured type="단기">4258년 8월 8일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 8일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 8일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808008_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>대좌로 승진한 아사카노미야 야스히코왕과 히가시쿠니 나루히코왕에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-08L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">八日。 發祝電于在<index num="2064449_0" sort="W" type="지명">佛國</index>
+              <index num="2064450_0" sort="W" type="지명">巴里</index>
+              <index num="2064451_0" sort="J" type="지명">朝香宮</index>
+              <index num="2064452_0" sort="J" type="이름">鳩彦王</index>、<index num="2064453_0" sort="J" type="지명">東久邇宮</index>
+              <index num="2064454_0" sort="J" type="이름">稔彦王</index>。 以陞進大佐也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11808012">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 12日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-12L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 12일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 12일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 12일</dateOccured>
+            <dateOccured type="단기">4258년 8월 12일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 12일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 12일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808012_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>여흥 민씨 종약소에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-12L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十二日。 賜金三百圓于<index num="2064455_0" sort="K" type="지명">驪興</index>閔氏宗約所。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11808015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-15L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 15일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 15일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 15일</dateOccured>
+            <dateOccured type="단기">4258년 8월 15일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 15일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>딸의 상을 당한 이왕직 장관 민영기에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十五日。 特賜金三百圓于本職長官男爵<index num="2064456_0" ref="M_0062757" sort="K" type="이름">閔泳綺</index>。 以其女喪也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11808021">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 21日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-21L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 21일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 21일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 21일</dateOccured>
+            <dateOccured type="단기">4258년 8월 21일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 21일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 21일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808021_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>광산 김씨 종약소에서 문원공 김장생의 문집의 일부를 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-21L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>가족-친족(親族)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>출판-서책(書冊)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十一日。 <index num="2064457_0" sort="K" type="지명">光山</index>金氏宗約所進獻先正臣<index num="2064458_0" ref="M_0001840" sort="K" type="이름">文元公</index>
+              <index num="2064459_0" ref="M_0001840" sort="K" type="이름">金長生</index>文集一部。 賜硯石一面。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11808029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 8月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-08-29L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 8월 29일</dateOccured>
+            <dateOccured type="개국연호"> 년 8월 29일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 8월 29일</dateOccured>
+            <dateOccured type="단기">4258년 8월 29일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 8월 29일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 8월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11808029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 한창수의 자부의 상제에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-08-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十九日。 特賜金一百五十圓于贊侍男爵<index num="2064460_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>。 以其子婦<index num="2064461_0" sort="K" type="이름">淑夫人兪氏</index>
+              <annotation type="원주">
+                <noteContent>【王妃姨母】</noteContent>
+              </annotation>祥祭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118090">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 九月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 九月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11809004">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 9月 4日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-09-04L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 9월 4일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 4일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 9월 4일</dateOccured>
+            <dateOccured type="단기">4258년 9월 4일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 9월 4일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 9월 4일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11809004_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕세자가 전무택의 어용저를 방문하여 천황 부처를 알현하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-09-04L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">四日。<annotation type="원주">
+                <noteContent>【陰曆乙丑七月二十七日】</noteContent>
+              </annotation> 王世子詣<index num="2064462_0" sort="J" type="지명">日光</index>
+              <index num="2064463_0" sort="J" type="지명">田母澤</index>御用邸, 謁見于天皇、皇后兩陛下, 仍祗受特賜物品之意, 電報稟達。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11809018">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 9月 18日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-09-18L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 9월 18일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 18일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 9월 18일</dateOccured>
+            <dateOccured type="단기">4258년 9월 18일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 9월 18일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 9월 18일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11809018_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>일본 악기 회사가 악기를 바치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-09-18L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>예술-음악(音樂)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十八日。 <index num="2064464_0" sort="J" type="지명">日本</index>樂器會社獻上樂器三箱。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11809019">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 9月 19日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-09-19L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 9월 19일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 19일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 9월 19일</dateOccured>
+            <dateOccured type="단기">4258년 9월 19일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 9월 19일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 9월 19일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11809019_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>왕비의 탄신일을 맞아 종척, 귀족 등을 인정전에서 접견하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-09-19L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十九日。 召見宗戚、貴族、本職長官以下高等官, 仍賜午餐于<index num="2064465_0" sort="K" type="지명">仁政殿</index>。 以王妃誕辰也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11809029">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 9月 29日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-09-29L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 9월 29일</dateOccured>
+            <dateOccured type="개국연호"> 년 9월 29일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 9월 29일</dateOccured>
+            <dateOccured type="단기">4258년 9월 29일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 9월 29일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 9월 29일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11809029_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이왕직 차관 시노다 지사쿠의 모친의 1년제에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-09-29L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十九日。 特賜金一百圓于本職次官<index num="2064466_0" sort="J" type="이름">篠田治策</index>。 以其母一年祭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118100">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 十月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 十月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11810001">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 1日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-01L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 1일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 1일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 1일</dateOccured>
+            <dateOccured type="단기">4258년 10월 1일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 1일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 1일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810001_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>성년식을 한 후시미노미야 박신왕에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-01L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">一日。<annotation type="원주">
+                <noteContent>【陰曆乙丑八月十四日】</noteContent>
+              </annotation> 發祝電于<index num="2064467_0" sort="J" type="지명">伏見宮</index>
+              <index num="2064468_0" sort="J" type="이름">博信王</index>。 以行成年式也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-05L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 5일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 5일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 5일</dateOccured>
+            <dateOccured type="단기">4258년 10월 5일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 5일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 한창수를 총독부에 보내어 황태자비가 착대식을 한 것에 대해 축하의 말을 전해줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">五日。 遣贊侍男爵<index num="2064469_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>于總督府, 託轉奏皇太子妃殿下行着帶式祝辭也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-06L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 6일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 6일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 6일</dateOccured>
+            <dateOccured type="단기">4258년 10월 6일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 6일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>명성 황후의 기신제를 맞아 희정당에서 왕비와 함께 망곡례를 행하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-비빈(妃嬪)</subjectClass>
+            <subjectClass>왕실-의식(儀式)</subjectClass>
+            <subjectClass>왕실-행행(行幸)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">六日。 臨于<index num="2064470_0" sort="K" type="지명">熙政堂</index>, 王妃同臨, <index num="2064471_0" ref="M_0006783" sort="K" type="이름">明成皇后</index>忌辰祭, 行望哭禮。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810013">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 13日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-13L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 13일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 13일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 13일</dateOccured>
+            <dateOccured type="단기">4258년 10월 13일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 13일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 13일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810013_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>사무관 이항구를 경성역에 보내어 조선 신궁의 어영대를 환영하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-13L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十三日。 遣事務官男爵<index num="2064472_0" ref="M_0044209" sort="K" type="이름">李恒九</index>于<index num="2064473_0" sort="K" type="지명">京城驛</index>, 迎<index num="2064474_0" sort="K" type="지명">朝鮮神宮</index>御靈代。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810015">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 15日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-15L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 15일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 15일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 15일</dateOccured>
+            <dateOccured type="단기">4258년 10월 15일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 15일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 15일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810015_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이강 공을 조선 신궁에 보내어 진좌제를 행할 때 참석하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-15L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十五日。 遣<index num="2064475_0" ref="M_0000430" sort="K" type="이름">李堈</index>公于<index num="2064476_0" sort="K" type="지명">朝鮮神宮</index>, 行鎭座祭時參列, 仍供鏡餠二對。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810016">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 16日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-16L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 16일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 16일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 16일</dateOccured>
+            <dateOccured type="단기">4258년 10월 16일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 16일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 16일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810016_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>조선 신궁의 어영대를 옮길 때 칙사로 온 지원실강에게 은제 화병을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-16L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十六日。 賜銀製花甁于子爵<index num="2064477_0" sort="J" type="이름">池園實康</index>。 以<index num="2064478_0" sort="K" type="지명">朝鮮神宮</index>御靈代奉遷時, 勅使來<index num="2064479_0" sort="K" type="지명">鮮</index>也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810017">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 17日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-17L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 17일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 17일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 17일</dateOccured>
+            <dateOccured type="단기">4258년 10월 17일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 17일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 17일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810017_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>이강 공을 조선 신궁에 보내어 예제를 행할 때 참석하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-17L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="3장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十七日。 遣<index num="2064480_0" ref="M_0000430" sort="K" type="이름">李堈</index>公于<index num="2064481_0" sort="K" type="지명">朝鮮神宮</index>, 行例祭時參列, 仍供鏡餠一對。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810030">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 30日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-30L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 30일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 30일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 30일</dateOccured>
+            <dateOccured type="단기">4258년 10월 30일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 30일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 30일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810030_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>민영찬 모친의 상에 제자료와 전의 서병효의 수고한 대가로 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-30L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十日。 特賜祭粢料金五百圓于前正二品<index num="2064482_0" ref="M_0062759" sort="K" type="이름">閔泳瓚</index>, 以其母<index num="2064483_0" ref="M_0002289" sort="K" type="이름">貞敬夫人徐氏</index>喪也; 又賜金六百圓于典醫<index num="2064484_0" ref="M_0066400" sort="K" type="이름">徐丙孝</index>, 以其屢月入診勞也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11810031">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 10月 31日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-10-31L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 10월 31일</dateOccured>
+            <dateOccured type="개국연호"> 년 10월 31일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 10월 31일</dateOccured>
+            <dateOccured type="단기">4258년 10월 31일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 10월 31일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 10월 31일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11810031_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 한창수를 총독부에 보내어 천장절 축하인사를 전해줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-10-31L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三十一日。 遣贊侍男爵<index num="2064485_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>于總督府, 託轉奏天長節祝賀。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118110">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 十一月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 十一月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11811002">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 2日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-02L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 2일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 2일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 2일</dateOccured>
+            <dateOccured type="단기">4258년 11월 2일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 2일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 2일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811002_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 한창수를 총독부에 보내어 육해군 대좌로 승진한 황태자에게 축하인사를 전해줄 것을 부탁하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二日。<annotation type="원주">
+                <noteContent>【陰曆乙丑九月十六日】</noteContent>
+              </annotation> 遣贊侍男爵<index num="2064486_0" ref="M_0006492" sort="K" type="이름">韓昌洙</index>于總督府, 託轉奏皇太子殿下陞進陸海軍大佐祝詞。</paragraph>
+          </content>
+        </text>
+      </level5>
+      <level5 id="wzc_11811002_002">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 총판 김택기의 상에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">002</docNo>
+            <date>
+              <dateOccured date="1925-11-02L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">特賜金一百圓于前總辦<index num="2064487_0" ref="M_0030218" sort="K" type="이름">金澤基</index>
+              <annotation type="원주">
+                <noteContent>【<index num="2064488_0" ref="M_0000430" sort="K" type="이름">李堈</index>公妻娚】</noteContent>
+              </annotation>喪。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11811005">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 5日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-05L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 5일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 5일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 5일</dateOccured>
+            <dateOccured type="단기">4258년 11월 5일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 5일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 5일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811005_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>자작 나베시마 나오토라가 죽어 나시모토노미야 모리마사왕비에게 조전을 부치다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-05L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">五日。 電弔于<index num="2064489_0" sort="J" type="지명">梨本宮</index>
+              <index num="2064490_0" sort="J" type="이름">守正王</index>妃。 以子爵<index num="2064491_0" sort="J" type="이름">鍋島直虎</index>薨去也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11811006">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 6日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-06L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 6일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 6일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 6일</dateOccured>
+            <dateOccured type="단기">4258년 11월 6일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 6일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 6일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811006_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>어용품을 조사하기 위해 사무관 박주빈과 천정장삼을 봉천, 대련 등지에 출장 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-06L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-국왕(國王)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">六日。 命事務官<index num="2064492_0" ref="M_0064398" sort="K" type="이름">朴胄彬</index>屬<index num="2064493_0" sort="J" type="이름">天井章三</index>出張于<index num="2064494_0" sort="K" type="지명">奉天</index>、<index num="2064495_0" sort="K" type="지명">大連</index>等地。 以御用品調査也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11811022">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 22日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-22L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 22일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 22일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 22일</dateOccured>
+            <dateOccured type="단기">4258년 11월 22일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 22일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 22일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811022_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>정무 총감 시모오카 다다하루의 상에 조문과 생화를 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-22L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+            <subjectClass>농업-과수원예(果樹園藝)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十二日。 發弔電, 賜祭粢料金七百圓于政務總監<index num="2064496_0" sort="J" type="이름">下岡忠治</index>喪。 仍命事務官男爵<index num="2064497_0" ref="M_0044209" sort="K" type="이름">李恒九</index>參列葬儀, 又供生花一對于公會堂設行追悼會。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11811023">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 23日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-23L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 23일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 23일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 23일</dateOccured>
+            <dateOccured type="단기">4258년 11월 23일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 23일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 23일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811023_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>찬시 현백운을 조선 신궁에 보내어 신상제를 행할 때 참석하게 하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-23L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十三日。 遣贊侍<index num="2064498_0" ref="M_0060604" sort="K" type="이름">玄百運</index>于<index num="2064499_0" sort="K" type="지명">朝鮮神宮</index>, 行新嘗祭時參列。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11811025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 25일</dateOccured>
+            <dateOccured type="단기">4258년 11월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>남대문 소방서와 황금정 소방 분서, 의용 소방대를 포상하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>군사-금화(禁火)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 特賜賞金于<index num="2064500_0" sort="K" type="지명">南大門</index>消防署<index num="2064501_0" sort="K" type="지명">黃金町</index>消防分署義勇消防隊, 有差。 以本職所屬奉常所失火時, 努力消防也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11811028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 11月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-11-28L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 11월 28일</dateOccured>
+            <dateOccured type="개국연호"> 년 11월 28일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 11월 28일</dateOccured>
+            <dateOccured type="단기">4258년 11월 28일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 11월 28일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 11월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11811028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>결혼한 지 25년이 되는 나시모토노미야에 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-11-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>풍속-풍속(風俗)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十八日。 發祝電于<index num="2064502_0" sort="J" type="지명">梨本宮</index>。 以結婚滿二十五年記念也。 仍贈送祝品數種。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+  <level3 id="wzc_118120">
+    <front>
+      <biblioData type="L">
+        <title>
+          <mainTitle>純宗實錄[附錄] 純宗[附錄]十八年 十二月</mainTitle>
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+        <paragraph align="center"> 純宗[附錄]十八年 十二月</paragraph>
+      </content>
+    </text>
+    <level4 id="wzc_11812003">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 12月 3日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-12-03L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 12월 3일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 3일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 12월 3일</dateOccured>
+            <dateOccured type="단기">4258년 12월 3일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 12월 3일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 12월 3일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11812003_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>신임 정무 총감 유아사 소헤이에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-12-03L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>군사-통신(通信)</subjectClass>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">三日。<annotation type="원주">
+                <noteContent>【陰曆乙丑十月十八日】</noteContent>
+              </annotation> 發祝電于新任政務總監<index num="2064503_0" sort="J" type="이름">湯淺倉平</index>, 又發祝電于<index num="2064504_0" sort="J" type="지명">高松宮</index>
+              <index num="2064505_0" sort="J" type="이름">宣仁親王</index>。 以敍勳也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11812011">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 12月 11日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-12-11L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 12월 11일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 11일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 12월 11일</dateOccured>
+            <dateOccured type="단기">4258년 12월 11일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 12월 11일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 12월 11일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11812011_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>서양으로의 여행을 마치고 돌아온 아사카노미야 야스히코왕과 왕비에게 축전을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-12-11L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>군사-통신(通信)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">十一日。 發祝電于<index num="2064506_0" sort="J" type="지명">朝香宮</index>
+              <index num="2064507_0" sort="J" type="이름">鳩彦王</index>同妃。 以洋行無事歸朝也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11812025">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 12月 25日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-12-25L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 12월 25일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 25일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 12월 25일</dateOccured>
+            <dateOccured type="단기">4258년 12월 25일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 12월 25일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 12월 25일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11812025_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>전 협판 민영선의 연제에 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-12-25L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+            <subjectClass>인사-관리(管理)</subjectClass>
+            <subjectClass>인물(人物)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十五日。 特賜金一百圓于前協辦<index num="2064508_0" ref="M_0063610" sort="K" type="이름">閔泳璇</index>練祭。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11812026">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 12月 26日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-12-26L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 12월 26일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 26일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 12월 26일</dateOccured>
+            <dateOccured type="단기">4258년 12월 26일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 12월 26일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 12월 26일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11812026_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>병환을 물어보기 위해 구니노미야 구니요시왕에게 위문조문을 보내다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-12-26L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 A면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>외교-일본(日本)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十六日。 發慰電于<index num="2064509_0" sort="J" type="지명">久邇宮</index>
+              <index num="2064510_0" sort="J" type="이름">邦彦王</index>。 以患候也。</paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+    <level4 id="wzc_11812028">
+      <front>
+        <biblioData type="L">
+          <title>
+            <mainTitle> 18年 12月 28日</mainTitle>
+          </title>
+          <date>
+            <dateOccured date="1925-12-28L0" type="서기"/>
+            <dateOccured type="간지">陽曆</dateOccured>
+            <dateOccured type="재위연도">순종 부록 18년 12월 28일</dateOccured>
+            <dateOccured type="개국연호"> 년 12월 28일</dateOccured>
+            <dateOccured type="중국연호">청 선통(宣統) 17년 12월 28일</dateOccured>
+            <dateOccured type="단기">4258년 12월 28일</dateOccured>
+            <dateOccured type="일본연호">대정(大正)14년 12월 28일</dateOccured>
+            <dateOccured type="display">일 대정(大正)14년 12월 28일</dateOccured>
+          </date>
+        </biblioData>
+      </front>
+      <level5 id="wzc_11812028_001">
+        <front>
+          <biblioData type="T">
+            <title>
+              <mainTitle>아내 상을 당한 왕세자의 부무관 우에노 요시스케에게 돈을 하사하다</mainTitle>
+            </title>
+            <docNo level="n" name="titleno">001</docNo>
+            <date>
+              <dateOccured date="1925-12-28L0" type="서기"/>
+            </date>
+            <source>
+              <mainTitle type="원본">純宗實錄[附錄] 8책 16권</mainTitle>
+              <page begin="4장 B면"/>
+            </source>
+            <source>
+              <mainTitle type="국편영인본">純宗實錄[附錄] 3책</mainTitle>
+              <page begin="633면"/>
+            </source>
+            <subjectClass>풍속-예속(禮俗)</subjectClass>
+            <subjectClass>왕실-종친(宗親)</subjectClass>
+            <subjectClass>왕실-사급(賜給)</subjectClass>
+          </biblioData>
+        </front>
+        <text>
+          <content>
+            <paragraph align="center">二十八日。 特賜金五十圓于王世子附武官<index num="2064511_0" sort="J" type="이름">上野良丞</index>。 以其妻喪也。</paragraph>
+            <paragraph align="center">
+              <annotation type="원주">
+                <noteContent>【純宗皇帝實錄附錄卷之十六終】</noteContent>
+              </annotation>
+            </paragraph>
+          </content>
+        </text>
+      </level5>
+    </level4>
+  </level3>
+</level2>
